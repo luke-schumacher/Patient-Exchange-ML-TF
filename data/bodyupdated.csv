@@ -1,0 +1,2365 @@
+﻿BodyPart,BodyGroup,MRType
+nodata,Other,FALSE
+Brain,Head,FALSE
+Head,Head,FALSE
+Lspine,Spine,FALSE
+Abdomen,Abdomen,FALSE
+Knee,Knee,FALSE
+Cspine,Spine,FALSE
+Heart,Heart,FALSE
+Spine,Spine,FALSE
+Shoulder,Shoulder,FALSE
+Pelvis,Pelvis,FALSE
+Ankle,Leg,FALSE
+Hip,Hip,FALSE
+Prostate,Pelvis,FALSE
+Breast,Breast,FALSE
+Foot,Leg,FALSE
+Tspine,Spine,FALSE
+Abdomenpelvis,Abdomen,FALSE
+Liver,Abdomen,FALSE
+Wrist,Arm,FALSE
+Skull,Head,FALSE
+Neck,Spine,FALSE
+Elbow,Arm,FALSE
+Hand,Arm,FALSE
+Wholebody,Wholebody,FALSE
+Leg,Leg,FALSE
+Lsspine,Spine,FALSE
+Chest,Chest,FALSE
+Extremity,Other,FALSE
+Pancreas,Abdomen,FALSE
+Headneck,Head,FALSE
+Kidney,Abdomen,FALSE
+Uterus,Pelvis,FALSE
+Rectum,Pelvis,FALSE
+Aorta,Chest,FALSE
+Tlspine,Spine,FALSE
+Femur,Leg,FALSE
+Thigh,Leg,FALSE
+Arm,Arm,FALSE
+Iac,Head,FALSE
+Tmj,Head,FALSE
+Finger,Arm,FALSE
+Sspine,Spine,FALSE
+Carotid,Head,FALSE
+Joint,Other,FALSE
+Calf,Leg,FALSE
+Cervix,Pelvis,FALSE
+Humerus,Arm,FALSE
+Orbit,Head,FALSE
+Lung,Chest,FALSE
+Ctspine,Spine,FALSE
+Chestabdomen,Mix,FALSE
+Back,Spine,FALSE
+Gallbladder,Abdomen,FALSE
+Face,Head,FALSE
+Thumb,Arm,FALSE
+Bladder,Pelvis,FALSE
+Circleofwillis,Head,FALSE
+Ear,Head,FALSE
+Chestabdpelvis,Mix,FALSE
+Sternum,Chest,FALSE
+Genou,Knee,FALSE
+Colon,Abdomen,FALSE
+Cardiac,Heart,FALSE
+Neckchest,Spine,FALSE
+Genoudroit,Knee,FALSE
+Ovary,Pelvis,FALSE
+Adrenal,Abdomen,FALSE
+Mrcp,Abdomen,Mrcp
+Beyin,Head,FALSE
+Coccyx,Hip,FALSE
+Genougauche,Knee,FALSE
+Genoux,Knee,FALSE
+Angio,other,MRA
+Neuro,Other,FALSE
+Abd,Abdomen,FALSE
+Scapula,Shoulder,FALSE
+Thorax,Chest,FALSE
+Cerebellum,Head,FALSE
+Toe,Leg,FALSE
+Wholespine,Spine,FALSE
+<empty>,Other,FALSE
+Herz,Heart,FALSE
+Oberbauch,abdomen,FALSE
+Calcaneus,Leg,FALSE
+Axilla,Shoulder,FALSE
+Epaule,Shoulder,FALSE
+Ileum,Hip,FALSE
+Pelvisfeminin,Pelvis,FALSE
+Jaw,Head,FALSE
+Seins,Breast,FALSE
+Body,Wholebody,FALSE
+Epaules,shoulder,FALSE
+Clavicle,Shoulder,FALSE
+Bba,Other,FALSE
+Cerebrum,Head,FALSE
+Lowerextremity,Leg,FALSE
+Lomber,Spine,FALSE
+Duodenum,Abdomen,FALSE
+Mediastinum,Chest,FALSE
+Parotid,Head,FALSE
+Nose,Head,FALSE
+Pelv,Pelvis,FALSE
+Bassin,Pelvis,FALSE
+Knie,Knee,FALSE
+Ilium,Hip,FALSE
+Epauledroite,Shoulder,FALSE
+Fetus,Other,FALSE
+Penis,Pelvis,FALSE
+Longbone,Other,FALSE
+Hed,Head,FALSE
+Pituitary,Head,FALSE
+Msk,Other,FALSE
+Tongue,Head,FALSE
+Brainspine,Head,FALSE
+Testis,Pelvis,FALSE
+Pharynx,Head,FALSE
+Eye,Head,FALSE
+Epaulegauche,shoulder,FALSE
+Pelvienne,Pelvis,FALSE
+Mra,Other,MRA
+Upperextremity,Arm,FALSE
+Maxilla,Head,FALSE
+Larynx,Head,FALSE
+Orl,Head,FALSE
+Eob,Abdomen,EOB
+Bronchus,Chest,FALSE
+Achillessehne,Leg,FALSE
+Brachialplexus,Shoulder,FALSE
+Chevilles,Leg,FALSE
+Brainandspine,Head,FALSE
+Wb,Other,FALSE
+Mouth,Head,FALSE
+Cai,Other,FALSE
+Stomach,Abdomen,FALSE
+Rib,Chest,FALSE
+Cheville,Leg,FALSE
+Lower extremity,Leg,FALSE
+Scrotum,Pelvis,FALSE
+Mandible,Head,FALSE
+Thymus,Chest,FALSE
+Pelvi,Pelvis,FALSE
+Neckchestabdpelv,Mix,FALSE
+Hypophyse,Head,FALSE
+Sella,Head,FALSE
+Sagdiz,Leg,FALSE
+Isg,Hip,FALSE
+Membre,Other,FALSE
+Combo,Mix,FALSE
+Abdomenmrcp,Abdomen,MRCP
+Hanches,Hip,FALSE
+Cranio,Head,FALSE
+Pelvien,Pelvis,FALSE
+Jejunum,Abdomen,FALSE
+Moelle,Spine,FALSE
+Thyroid,Head,FALSE
+Phantom,Other,FALSE
+Patella,Knee,FALSE
+Fetal,Other,FALSE
+Kulonvizsgalat,Other,FALSE
+Vorfuss,Leg,FALSE
+Headmra,Head,MRA
+Mozek,Head,FALSE
+Genou droit,Knee,FALSE
+Abdomeneob,Abdomen,EOB
+Spleen,Abdomen,FALSE
+Ureter,Pelvis,FALSE
+Smallbowel,Abdomen,FALSE
+Vagina,Pelvis,FALSE
+Upper extremity,Arm,FALSE
+Genou gauche,Knee,FALSE
+Trunk,Mix,FALSE
+Brainwspine,Head,FALSE
+Obb,Other,FALSE
+Sacrum,Hip,FALSE
+Lspineroutine,Spine,FALSE
+Foetus,Other,FALSE
+Urethra,Pelvis,FALSE
+Pied,Leg,FALSE
+Hlava,Head,FALSE
+Wspine,Spine,FALSE
+Mra20ch,Other,MRA
+Syn_heart,Heart,FALSE
+W spine,Spine,FALSE
+Standard,Other,FALSE
+Kenshinbrainpel,Mix,FALSE
+Tibfib,Leg,FALSE
+Cranestandard,Head,FALSE
+Enkel,Leg,FALSE
+Whole spine,Spine,FALSE
+Neckchestabdomen,Mix,FALSE
+Nasopharynx,Head,FALSE
+Kiefergelenke,Head,FALSE
+Hwsbws,Spine,FALSE
+Brainroutine,Head,FALSE
+Long bone,Other,FALSE
+Angiography,Other,MRA
+Pieds,Leg,FALSE
+Mamas,Breast,FALSE
+Chevillegauche,Leg,FALSE
+Lspater,Spine,FALSE
+Pelvisf,Pelvis,FALSE
+Synbrain,Head,FALSE
+H,Other,FALSE
+Kneeright,Knee,FALSE
+Head20ch,Head,FALSE
+Diz,Other,FALSE
+Poignets,Arm,FALSE
+Kneeleft,Knee,FALSE
+Tsa,Shoulder,FALSE
+Headspine,Head,FALSE
+Schouder,Shoulder,FALSE
+Nck,Spine,FALSE
+Acr,Other,FALSE
+Forearm,Arm,FALSE
+Esophagus,Abdomen,FALSE
+Encefalo,Head,FALSE
+Fistula,Pelvis,FALSE
+Brainmra,Head,MRA
+Brainandwspin,Head,FALSE
+Footankle,Leg,FALSE
+Knees,Knee,FALSE
+Pet,Other,FALSE
+Bekken,Hip,FALSE
+Lombaire,Spine,FALSE
+Mskupper,Other,FALSE
+Shoulders,Shoulder,FALSE
+Knierechts,Knee,FALSE
+Chevilledroite,Leg,FALSE
+Kopfundhws,Head,FALSE
+Brachial plexus,Shoulder,FALSE
+Parotides,Head,FALSE
+Syn_pelvis,Pelvis,FALSE
+Pelvisfem,Pelvis,FALSE
+Pelviss,Pelvis,FALSE
+Mittelfuss,Leg,FALSE
+Brain_spine,Head,FALSE
+Carotidmra,Head,MRA
+Kalca,Hip,FALSE
+Sij,Hip,FALSE
+Plexus,Other,FALSE
+Knielinks,Knee,FALSE
+Seinsbilat,Breast,FALSE
+Syn_brain,Head,FALSE
+Osg,Leg,FALSE
+Apc,Leg,FALSE
+Genougche,Knee,FALSE
+Colunalombar,Spine,FALSE
+Coude,Arm,FALSE
+Pankreas,Abdomen,FALSE
+Cspineroutine,Spine,FALSE
+Beckenbeinangio,Hip,MRA
+Ledvenahlspine,Spine,FALSE
+Mamma,Breast,FALSE
+Pols,Arm,FALSE
+Peripheral,Other,FALSE
+Mra_20ch,Other,MRA
+Qa,Other,FALSE
+Mbresinf,Leg,FALSE
+Sacroiliaques,Hip,FALSE
+Total spine,Spine,FALSE
+Brain w_spine,Head,FALSE
+Lower ext,Leg,FALSE
+Kneer,Knee,FALSE
+Medullaire,Spine,FALSE
+Brain and spine,Head,FALSE
+Epaule droite,Shoulder,FALSE
+Hers stand cva,Head,FALSE
+Kneel,Knee,FALSE
+Submandibular,Head,FALSE
+Total body scree,Wholebody,FALSE
+Poignet,Arm,FALSE
+Hals,Head,FALSE
+Entero,Abdomen,FALSE
+Lwkstandaard,Spine,FALSE
+Huefte,Hip,FALSE
+Vessel,Other,MRA
+Soldiz,Other,FALSE
+Heup,Hip,FALSE
+Hipjoint,Hip,FALSE
+Reins,Abdomen,FALSE
+Vascular,Other,MRA
+Knie18routine,Knee,FALSE
+Pelvism,Pelvis,FALSE
+Kopfws,Head,FALSE
+Crane,Head,FALSE
+Zhsc,Other,FALSE
+Thoracic,Chest,FALSE
+Dock,Other,FALSE
+Cervical,Spine,FALSE
+Headcspine,Head,FALSE
+Koleno,Knee,FALSE
+Headischemie,Head,FALSE
+Cuisse,Leg,FALSE
+Craniospinale,Head,FALSE
+Cpater,Spine,FALSE
+Peripheralangio,Other,MRA
+Si,Other,FALSE
+Doc,Other,FALSE
+Lowexm,Leg,FALSE
+Vulva,Pelvis,FALSE
+Headbrain,Head,FALSE
+Ls pater,Spine,FALSE
+Coudes,Arm,FALSE
+Baby,Other,FALSE
+Sakro?ll?ak,Hip,FALSE
+Poignetmain,Arm,FALSE
+Collombaire,Spine,FALSE
+Head64,Head,FALSE
+Shoulderr,Shoulder,FALSE
+Genoudrstd,Knee,FALSE
+Oreilles,Head,FALSE
+Plv,Heart,FALSE
+Trachea,Chest,FALSE
+Medulaire,Spine,FALSE
+Ctlspine,Spine,FALSE
+Foie,Abdomen,FALSE
+Rodilladerecha,Knee,FALSE
+Glavahead,Head,FALSE
+Epaule gauche,Shoulder,FALSE
+Female pelvis,Pelvis,FALSE
+Sacro iliaques,Hip,FALSE
+Abdosupstd,Abdomen,FALSE
+Cns,Other,FALSE
+Completespine,Spine,FALSE
+Tibia,Leg,FALSE
+Khbw,Other,FALSE
+Sinus,Head,FALSE
+Genougstd,Knee,FALSE
+Breast bl,Breast,FALSE
+Servikal,Spine,FALSE
+Rachisrcdlsi,Spine,FALSE
+Shoulderl,Shoulder,FALSE
+Dotbreast,Breast,FALSE
+Tumour,Chest,FALSE
+Wholespineand,Spine,FALSE
+Rodillaizquierd,Knee,FALSE
+Headneuroonco,Head,FALSE
+Mammo,Breast,FALSE
+Canalanal,Pelvis,FALSE
+Schaedelgws,Head,FALSE
+Oberbauch leber,Abdomen,FALSE
+Sellink,Abdomen,Sellink
+Atm,Head,FALSE
+Foetale,Other,FALSE
+Unterbauch,Abdomen,FALSE
+Bwslws,Spine,FALSE
+Brainandorbits,Head,FALSE
+Limb,Other,FALSE
+Cou,Head,FALSE
+Soft tissue mass,Other,FALSE
+Orbites,Head,FALSE
+Pelvisoc,Pelvis,FALSE
+Cspinehernie,Spine,FALSE
+Multiple,Other,FALSE
+Enteroirm,Abdomen,FALSE
+Qc,Other,FALSE
+Hipofise,Head,FALSE
+Beckenbein,Hip,FALSE
+Pelvis feminin,Pelvis,FALSE
+Biliirm,Abdomen,FALSE
+Angioperipheral,Other,MRA
+Collumnatotalis,Spine,FALSE
+Mbresinferieurs,Other,FALSE
+Longbones,Other,FALSE
+Orthopedie,Other,FALSE
+Craniofacial,Head,FALSE
+Rtshoulder,Shoulder,FALSE
+Unterarm,Arm,FALSE
+Pelvis1,Pelvis,FALSE
+Cwkstandaard,Spine,FALSE
+Multistudy,Other,FALSE
+Osus,Other,FALSE
+Elleboog,Arm,FALSE
+Ellenbogen,Arm,FALSE
+Sakroiliak,Hip,FALSE
+Coronaryartery,Heart,FALSE
+Mainoupoignet,Arm,FALSE
+Meme,Breast,FALSE
+Fuss,Leg,FALSE
+Iams,Other,FALSE
+Braincspine,Head,FALSE
+Legs,Leg,FALSE
+Sijoints,Hip,FALSE
+Kopfhws,Head,FALSE
+Rechsuivimetas,Other,FALSE
+Cuisses,Leg,FALSE
+Liverpancreas,Abdomen,FALSE
+Akustikus,Head,FALSE
+Ext,Leg,FALSE
+Hirn,Head,FALSE
+Ortho,Other,FALSE
+Mainpoignet,Arm,FALSE
+Hirnstamm,Head,FALSE
+Hip2,Hip,FALSE
+Cranemoelle,Head,FALSE
+Epauledte,Shoulder,FALSE
+Massiffacial,Head,FALSE
+Liver pancreas,Abdomen,FALSE
+Prostastandaard,Pelvis,FALSE
+Kenshinbrain,Head,FALSE
+Sarcoma,Other,FALSE
+Cs_lss,Other,FALSE
+Voet,Leg,FALSE
+Schouderarthro,Shoulder,FALSE
+Triple head,Head,FALSE
+Abdosupcorpul,Abdomen,FALSE
+Lump,Other,FALSE
+Pelvisfemal,Pelvis,FALSE
+Cranial nerves,Head,FALSE
+Hypohyse,Head,FALSE
+Heup bekken,Hip,FALSE
+Rameno,Shoulder,FALSE
+Mrv,Other,MRV
+Dorsolombaire,Spine,FALSE
+Lknee,Knee,FALSE
+Brain spine,Head,FALSE
+Carotids,Head,FALSE
+Mains,Arm,FALSE
+Mama,Breast,FALSE
+Lv,Other,FALSE
+Epauleghe,Shoulder,FALSE
+Brust,Breast,FALSE
+Dailycheck,Other,FALSE
+Ferse,Leg,FALSE
+Kopfwirbelsaeule,Head,FALSE
+Osteo,Other,FALSE
+Mittelvorfuss,Leg,FALSE
+Hips,Hip,FALSE
+Softtissue,Other,FALSE
+Hypophysis,Head,FALSE
+Leiste,Pelvis,FALSE
+Lowerleg,Leg,FALSE
+Zns,Other,FALSE
+Bbmra,Other,FALSE
+Syn_neck,Spine,FALSE
+Mskpelvis,Pelvis,FALSE
+Hipr,Hip,FALSE
+Brainandcsp,Head,FALSE
+Nnh,Other,FALSE
+Other,Other,FALSE
+C pater a mozek,Spine,FALSE
+Test,Other,FALSE
+Arthrogram,Other,Arthrogram
+Rachisrcdl,Spine,FALSE
+Kopf,Head,FALSE
+Ctlspines,Spine,FALSE
+Head and c spine,Head,FALSE
+Upexm,Arm,FALSE
+Ltshoulder,Shoulder,FALSE
+Comboexams,Mix,FALSE
+T spine,Spine,FALSE
+Shoulderright,Shoulder,FALSE
+Femalepelvis,Pelvis,FALSE
+Beine,Leg,FALSE
+D,Other,FALSE
+Small bowel,Abdomen,FALSE
+Low extremity,Leg,FALSE
+Lower limb,Leg,FALSE
+Rknee,Knee,FALSE
+Soft tissue neck,Spine,FALSE
+Kenshinpelvis,Pelvis,FALSE
+Upperext,Arm,FALSE
+Duenndarm,Abdomen,FALSE
+Ent,Other,FALSE
+Sijs,Hip,FALSE
+Xtremity,Other,FALSE
+Enkels,Leg,FALSE
+Colonnetotale,Abdomen,FALSE
+Memsup,Arm,FALSE
+Mrahead,Head,MRA
+Meminf,Leg,FALSE
+Headopenvraag,Head,FALSE
+Ltknee,Knee,FALSE
+Pelvfeminin,Pelvis,FALSE
+Heupbekken,Hip,FALSE
+Piedchevilleg,Leg,FALSE
+Foetal,Other,FALSE
+Ws,Spine,FALSE
+Si joints,Hip,FALSE
+Vessels,Other,MRA
+Piedchevilled,Leg,FALSE
+Candtspine,Spine,FALSE
+Zygoma,Head,FALSE
+Oropharynx,Head,FALSE
+Softtissuemass,Other,FALSE
+Phantomhead,Other,FALSE
+Mammostandaard,Breast,FALSE
+Lspineoperee,Spine,FALSE
+Mammaire,Breast,FALSE
+Enkelstandaard,Leg,FALSE
+Rtknee,Knee,FALSE
+Poignetdroit,Arm,FALSE
+Lspinepostop,Spine,FALSE
+Coudedroit,Arm,FALSE
+Headandneck,Head,FALSE
+Shoulderleft,Shoulder,FALSE
+Myelon,Spine,FALSE
+Lowermsk,Leg,FALSE
+Rueckenmark,Spine,FALSE
+Mbressup,Arm,FALSE
+Joints,Other,FALSE
+Cv,Other,FALSE
+Upper ext,Arm,FALSE
+Perfusion,Other,FALSE
+C pater,Spine,FALSE
+Plexusbrachial,Shoulder,FALSE
+Hanchedroite,Hip,FALSE
+Braindock,Head,FALSE
+Dij,Hip,FALSE
+Cardioviabioc,Heart,FALSE
+Brainandcspine,Head,FALSE
+Hipl,Hip,FALSE
+L,Other,FALSE
+Total body,Wholebody,FALSE
+Lspinehernie,Spine,FALSE
+Neuroachse,Other,FALSE
+Gesamtesabdomen,Abdomen,FALSE
+Arms,Arm,FALSE
+Hamstring,Leg,FALSE
+Mozog,Head,FALSE
+Main,Arm,FALSE
+Breastboth,Breast,FALSE
+Enterography,Abdomen,FALSE
+Prsa,Breast,FALSE
+Upper ex,Arm,FALSE
+Bilatbreast,Breast,FALSE
+Forefoot,Leg,FALSE
+Lumalis,Abdomen,FALSE
+Breast bilateral,Breast,FALSE
+Headangio,Head,MRA
+Ctspinems,Spine,FALSE
+Prostatept,Pelvis,FALSE
+Extrem,Other,FALSE
+Sacroiliacas,Hip,FALSE
+Hanchegauche,Hip,FALSE
+Thpater,Spine,FALSE
+Gynaeco,Pelvis,FALSE
+Elbows,Arm,FALSE
+Sijoint,Hip,FALSE
+Epdrjg,Other,FALSE
+Foetal cardiac,Heart,FALSE
+Softtissueneck,Head,FALSE
+Kneert,Knee,FALSE
+Felsenbeine,Leg,FALSE
+Costoclav,Chest,FALSE
+Gynae,Pelvis,FALSE
+Vratnahcspine,Spine,FALSE
+Breasts,Breast,FALSE
+Halsangio,Head,FALSE
+Herstumorinf,Head,FALSE
+Coudegauche,Arm,FALSE
+Lumbar spine,Spine,FALSE
+Poignetgauche,Arm,FALSE
+Fistulogram,Pelvis,Fistulogram
+Pit,Head,FALSE
+Abdomenlumbar,Abdomen,FALSE
+Tumorsequences,Other,FALSE
+Syn_breast,Breast,FALSE
+Peripherals,Other,FALSE
+Lss    sagt2,Other,FALSE
+Acrqc,Other,FALSE
+Bekkensig,Pelvis,FALSE
+Npc,Other,FALSE
+Przerzuty,Other,FALSE
+Seizure,Head,FALSE
+Abdomenbecken,Abdomen,FALSE
+Cp angle,Head,FALSE
+Brachial,Arm,FALSE
+Bacia,Hip,FALSE
+Nieren,Abdomen,FALSE
+Pulmonalis,Chest,FALSE
+Headandspine,Head,FALSE
+Alaraajat,Leg,FALSE
+Mrabrain,Head,MRA
+Kneelt,Knee,FALSE
+Nerfs craniens,Head,FALSE
+Bricho,Abdomen,FALSE
+Tandlspine,Spine,FALSE
+Cholangio,Abdomen,MRA
+Fistule,Pelvis,FALSE
+Handwrist,Arm,FALSE
+T and l spine,Spine,FALSE
+Sacroiliaque,Hip,FALSE
+Becken muskel,Hip,FALSE
+Synbreast,Breast,FALSE
+Asl,Other,FALSE
+Tib fib,Leg,FALSE
+Upperlimb,Arm,FALSE
+Hombroderecho,Shoulder,FALSE
+Main poignet,Arm,FALSE
+Brain_mra,Head,MRA
+Sinuses,Head,FALSE
+Jambe,Leg,FALSE
+Cervicalspine,Spine,FALSE
+Colcervicale,Pelvis,FALSE
+Peds spine,Spine,FALSE
+Muscle,Other,FALSE
+Collumb,Other,FALSE
+Been,Leg,FALSE
+Hws bws,Spine,FALSE
+Crus,Leg,FALSE
+Anus,Pelvis,FALSE
+Enteromr,Abdomen,FALSE
+Headmsfollowup,Head,FALSE
+Hws_bws,Spine,FALSE
+Dirsek,Arm,FALSE
+Sep,Other,FALSE
+Brughoekfossap,Head,FALSE
+Carotis,Head,FALSE
+Chestabdpel,Mix,FALSE
+Cairochers,Other,FALSE
+Epgjg,Other,FALSE
+Shoulderu,Shoulder,FALSE
+Kopfmyelon,Head,FALSE
+Colunadorsal,Shoulder,FALSE
+Jambes,Leg,FALSE
+Cspinepostop,Spine,FALSE
+Moelle spinale,Spine,FALSE
+Sacroilliac,Hip,FALSE
+Hipofiz,Head,FALSE
+Achillesehne,Leg,FALSE
+Gehirnundruema,Head,FALSE
+Koncetinydolni,Leg,FALSE
+Bras,Arm,FALSE
+Ankler,Leg,FALSE
+Ami,Other,FALSE
+Renal,Abdomen,FALSE
+Clspine,Spine,FALSE
+Ctspineroutine,Spine,FALSE
+Angiomembreinf,Leg,MRA
+Hwsbrustwirbels,Spine,FALSE
+Vsrad,Other,FALSE
+Voiesbiliaires,Abdomen,FALSE
+Lower ex,Leg,FALSE
+Onkolog,Other,FALSE
+Polshandvinger,Arm,FALSE
+Bonesurvey,Other,FALSE
+Shoulder options,Shoulder,FALSE
+Cs   sagt2,Other,FALSE
+Sacrumbone,Hip,FALSE
+Underextremity,Leg,FALSE
+Fistel,Pelvis,FALSE
+Brachium,Arm,FALSE
+Schaedelws,Head,FALSE
+Liv eob,Abdomen,EOB
+Elbilek,Arm,FALSE
+Hirnhals,Head,FALSE
+Angiocranio,Head,MRA
+Spinalcord,Spine,FALSE
+Endometrium,Pelvis,FALSE
+Tl spine,Spine,FALSE
+Legsfdg,Leg,FALSE
+Torakal,Chest,FALSE
+Hanche,Hip,FALSE
+Bone,Other,FALSE
+Pelvise,Pelvis,FALSE
+Lumbarspine,Spine,FALSE
+Bonypelvis,Pelvis,FALSE
+Neuroakse,Other,FALSE
+Coeurcuisses,Heart,FALSE
+Foetal brain,Other,FALSE
+Breastmr,Breast,FALSE
+Long bones,Leg,FALSE
+Shoulderrt,Shoulder,FALSE
+Mracarotids,Head,MRA
+Akn,Other,FALSE
+Braincpa,Head,FALSE
+Foot ankle,Leg,FALSE
+Inflamspine,Spine,FALSE
+Oslong,Other,FALSE
+Haende,Arm,FALSE
+Pectoralis,Chest,FALSE
+Head and spine,Head,FALSE
+Parotide,Head,FALSE
+Heupstandaard,Hip,FALSE
+Lowerlegs,Leg,FALSE
+Cdlspine,Spine,FALSE
+C,Other,FALSE
+Hombroizquierdo,Shoulder,FALSE
+Cervicofacial,Pelvis,FALSE
+Coeur,Heart,FALSE
+Carotisbds,Head,FALSE
+Brainangio,Head,MRA
+Gynaecological,Pelvis,FALSE
+Pro,Other,FALSE
+Prsnahtspine,Spine,FALSE
+Brain_ctl spine,Head,FALSE
+Sacrumcoccyx,Hip,FALSE
+Anklel,Leg,FALSE
+Ped spine,Spine,FALSE
+Extremities,Other,FALSE
+Pelvis masculin,Pelvis,FALSE
+C and t spine,Spine,FALSE
+Thoraxandpel,Mix,FALSE
+Totalspine,Spine,FALSE
+Sacro iliaque,Hip,FALSE
+Synprostate,Pelvis,FALSE
+Angiocrane,Head,MRA
+Heuparthro,Hip,FALSE
+Kenshinabdomen,Abdomen,FALSE
+Membresinf,Leg,FALSE
+Complete spine,Spine,FALSE
+Avc,Other,FALSE
+Brainwithcont,Head,FALSE
+Lonebone,Leg,FALSE
+Cow,Other,FALSE
+Mittelhand,Arm,FALSE
+Mb inf ou sup,Leg,FALSE
+Th,Other,FALSE
+Pituarity,Head,FALSE
+Hearts,Heart,FALSE
+Whole_spine,Spine,FALSE
+Pitutary,Head,FALSE
+Vinger,Arm,FALSE
+Encephale,Head,FALSE
+Membresinfs,Leg,FALSE
+Brainepilepsy,Head,FALSE
+Artsacroiliaque,Hip,FALSE
+Crane cai,Head,FALSE
+Cotovelo,Arm,FALSE
+Ankles,Leg,FALSE
+Chestwall,Chest,FALSE
+Hirnhws,Head,FALSE
+Pelve,Pelvis,FALSE
+Rshoulder,Shoulder,FALSE
+Ctl spine,Spine,FALSE
+Karotis,Head,FALSE
+Hlezno,Leg,FALSE
+Headmsbaseline,Head,FALSE
+Tobilloizq,Leg,FALSE
+Tlspineroutine,Spine,FALSE
+Mass,Other,FALSE
+Brachealplexus,Shoulder,FALSE
+Pituitarygland,Head,FALSE
+Sis,Other,FALSE
+Spectro31p,Other,MRS
+Torax,Chest,FALSE
+Tmjs,Head,FALSE
+Grouped,Other,FALSE
+Pols standaard,Arm,FALSE
+Tibiafibula,Leg,FALSE
+Isledd,Other,FALSE
+Kopfhals,Head,FALSE
+Panev,Hip,FALSE
+Foetal body,Other,FALSE
+Os,Other,FALSE
+Piedoucheville,Leg,FALSE
+Fantome,Other,FALSE
+Doigt,Arm,FALSE
+Whole body,Wholebody,FALSE
+Mrcppancreas,Abdomen,MRCP
+Iam,Head,FALSE
+Niere,Abdomen,FALSE
+Chst,Chest,FALSE
+Hamstrings,Leg,FALSE
+Mrs1h,Other,MRS
+Kidneys,Abdomen,FALSE
+Dental,Head,FALSE
+Oberbauch niere,Abdomen,FALSE
+Becken_bein,Hip,FALSE
+Runoff,Leg,FALSE
+Ayak,Leg,FALSE
+Sakroilliac,Hip,FALSE
+Kneenew,Knee,FALSE
+Anklemidfoot,Leg,FALSE
+Neckcervical,Spine,FALSE
+Uterusovary,Pelvis,FALSE
+Pitfossa,Head,FALSE
+Hindfoot,Leg,FALSE
+Poignetgossetn,Arm,FALSE
+Cervical spine,Spine,FALSE
+Postarthrogram,Other,Arthrogram
+Lowerext,Leg,FALSE
+Bauchdecke,Abdomen,FALSE
+Tobilloder,Leg,FALSE
+Scg,Chest,FALSE
+Cspineangio,Spine,FALSE
+Entirespine,Spine,FALSE
+Avantbras,Arm,FALSE
+Brainwholespine,Mix,FALSE
+Renalangio,Abdomen,MRA
+Gefaess,Other,FALSE
+Reto,Other,FALSE
+ c and l spine,Spine,FALSE
+Headdementie,Head,FALSE
+Weichgewebe,Other,FALSE
+Mammae,Breast,FALSE
+Colonne,Abdomen,FALSE
+Dock brain,Head,FALSE
+Us,Other,FALSE
+Vesselwall,Other,MRA
+Pied cheville d,Leg,FALSE
+Hip joint,Hip,FALSE
+Thoracic spine,Spine,FALSE
+Intracraniell,Head,FALSE
+Rt knee,Knee,FALSE
+Os long,Other,FALSE
+Sc,Other,FALSE
+Shoulderlt,Shoulder,FALSE
+Fuss_osg,Leg,FALSE
+Lowerextremities,Leg,FALSE
+Breast post_op,Breast,FALSE
+Lumbar,Spine,FALSE
+Heupen,Hip,FALSE
+Kopf und myelon,Head,FALSE
+Pelviscurie,Pelvis,FALSE
+Liver primovist,Abdomen,FALSE
+Sacroilstd,Hip,FALSE
+Musculaire,Other,FALSE
+Pied cheville g,Leg,FALSE
+Bacino,Pelvis,FALSE
+Cervicofacialid,Pelvis,FALSE
+Columna,Spine,FALSE
+Breastbilat,Breast,FALSE
+Hueftebds,Hip,FALSE
+Abdomenchest,Mix,FALSE
+Medulla,Spine,FALSE
+Brainwpit,Head,FALSE
+Paediatric,Other,FALSE
+Mainpoignetd,Arm,FALSE
+Sacrumcoccyxsi,Hip,FALSE
+Heuprountine,Hip,FALSE
+Feet,Leg,FALSE
+C spine,Spine,FALSE
+Temporal,Head,FALSE
+Twkstandaard,Spine,FALSE
+Periferralangio,Pelvis,FALSE
+Colangiorm,Abdomen,MRA
+Lt knee,Knee,FALSE
+Lumbarspinegad,Spine,FALSE
+Ms head spine,Head,MRS
+Thoracicspine,Spine,FALSE
+Anal canal,Pelvis,FALSE
+Flank,Other,FALSE
+Veinepulmonaire,Chest,FALSE
+Bovenonderbeen,Leg,FALSE
+Hanchenecrose,Hip,FALSE
+Braincsptsp,Head,FALSE
+Brain_dock,Head,FALSE
+Fantomeacr,Other,FALSE
+Hip j,Hip,FALSE
+Headinfant,Head,FALSE
+Headepilepsie,Head,FALSE
+Totwkspondylart,Spine,FALSE
+Schaedel hws,Head,FALSE
+Subclavian,Chest,FALSE
+Qatesting,Other,FALSE
+Venous,Other,FALSE
+Bili,Abdomen,FALSE
+Piedcheville,Leg,FALSE
+Abdpel,Abdomen,FALSE
+Brustwirbel,Spine,FALSE
+Female,Other,FALSE
+Tumor,Other,FALSE
+Head and neck,Head,FALSE
+Sacroiliacreum,Hip,FALSE
+Groin,Pelvis,FALSE
+Brain spine comb,Head,FALSE
+Becken,Hip,FALSE
+Sacroiliac,Hip,FALSE
+Membres infs,Leg,FALSE
+Rtwrist,Arm,FALSE
+Si joints sacrum,Hip,FALSE
+Hip1,Hip,FALSE
+Kopf_hws,Head,FALSE
+Epilepsie,Head,FALSE
+Lumbarplexus,Spine,FALSE
+Cuissesjambes,Leg,FALSE
+Darm,Abdomen,FALSE
+Lowerextemity,Leg,FALSE
+Pelvisandhip,Hip,FALSE
+Runoffs,Leg,FALSE
+Prostata,Pelvis,FALSE
+Brownfat,Other,FALSE
+Hand pols,Arm,FALSE
+Knie15routine,Knee,FALSE
+Pns,Other,FALSE
+Sacro_iliaques,Hip,FALSE
+Brainiac,Head,FALSE
+Sacroiliacjoint,Hip,FALSE
+Morton,Leg,FALSE
+Ltleg,Leg,FALSE
+Msbrain,Head,FALSE
+Ltwrist,Arm,FALSE
+Tyndtarm,Abdomen,FALSE
+Achillssehne,Leg,FALSE
+Habd,Arm,FALSE
+Halsweichteile,Head,FALSE
+Upperleg,Leg,FALSE
+Siklouby,Hip,FALSE
+Piederecho,Leg,FALSE
+Primovist leber,Abdomen,FALSE
+Headcord,Head,FALSE
+Rtleg,Leg,FALSE
+Stagingcervix,Pelvis,FALSE
+Long bone lump,Leg,FALSE
+Wristright,Arm,FALSE
+Bws lws,Spine,FALSE
+Canal anal,Pelvis,FALSE
+Thoracicoutlet,Chest,FALSE
+Rtelbow,Arm,FALSE
+Soft tissue,Other,FALSE
+Faceskullbase,Head,FALSE
+Enteroirmoc,Abdomen,FALSE
+Cardioaoocpt,Heart,FALSE
+Peripheal,Other,FALSE
+Legr,Leg,FALSE
+Surrenales,Abdomen,FALSE
+Dorsal,Spine,FALSE
+Haandled,Arm,FALSE
+Membreinferieur,Leg,FALSE
+Kotunan,Other,FALSE
+Pelvis dyn,Pelvis,FALSE
+Angiographie,Other,MRA
+Legl,Leg,FALSE
+Mollets,Leg,FALSE
+Braintotalspin,Mix,FALSE
+Rtfoot,Leg,FALSE
+Thorax  abdomen,Mix,FALSE
+Perianal,Pelvis,FALSE
+Coudestd,Arm,FALSE
+Mainpoignetg,Arm,FALSE
+Pieizquierdo,Leg,FALSE
+Wrist_hand,Arm,FALSE
+Footl,Leg,FALSE
+Scjoints,Chest,FALSE
+Brain cont,Head,FALSE
+Kid,Other,FALSE
+Renals,Abdomen,FALSE
+Joelho,Knee,FALSE
+Cspineandbp,Spine,FALSE
+Oberunterschenk,Leg,FALSE
+Testscan,Other,FALSE
+1phantom,Other,FALSE
+Digit,Arm,FALSE
+Angiopmra,Other,MRA
+Lshoulder,Shoulder,FALSE
+Wristleft,Arm,FALSE
+Joelhodireito,Knee,FALSE
+Brain  abdomen,Mix,FALSE
+Cerebromedul,Head,FALSE
+Hws,Spine,FALSE
+Hct,Other,FALSE
+Maindrte,Arm,FALSE
+Skullbase,Head,FALSE
+Intestins,Abdomen,FALSE
+L knee,Knee,FALSE
+Unt extremitaet,Leg,FALSE
+Nierenstandaard,Abdomen,FALSE
+Footr,Leg,FALSE
+Long bone screen,Leg,FALSE
+Ltankle,Leg,FALSE
+Hersenenms,Head,FALSE
+Ltfoot,Leg,FALSE
+Beinebds,Leg,FALSE
+Rtankle,Leg,FALSE
+Kopf ws,Head,FALSE
+Mra abdomen,Abdomen,MRA
+Plantarfaszie,Leg,FALSE
+Upperextrmity,Arm,FALSE
+C and tspine,Spine,FALSE
+20chroutine,Other,FALSE
+Wrists,Arm,FALSE
+Colangio,Abdomen,MRA
+Paranasalsinus,Head,FALSE
+Asi,Other,FALSE
+Neckmra,Spine,MRA
+Rachistotal,Pelvis,FALSE
+Poignetetmain,Arm,FALSE
+Brainandmra,Head,MRA
+Rotsbeenderen,Head,FALSE
+Femoral,Leg,FALSE
+Angiombinf,Leg,FALSE
+L_knee,Knee,FALSE
+Achilles,Leg,FALSE
+Cspine64,Spine,FALSE
+Joinrt,Other,FALSE
+Lowerlimbs,Leg,FALSE
+Legmrv,Leg,FALSE
+Isj,Other,FALSE
+Headneckchest,Mix,FALSE
+Nonspecific,Other,FALSE
+Symphyse,Other,FALSE
+Thoraxangio,Chest,MRA
+Bicepstendon,Arm,FALSE
+Wholespinehip,Spine,FALSE
+Doigts,Arm,FALSE
+Bilat breasts,Breast,FALSE
+Renalarteries,Abdomen,FALSE
+Braincord,Head,FALSE
+Runoffmra,Leg,MRA
+Analefistel,Pelvis,FALSE
+Renal angio,Abdomen,MRA
+Synneck,Spine,FALSE
+Symchain,Other,FALSE
+Msklower,Leg,FALSE
+Endometriose,Pelvis,FALSE
+Tejidos blandos,Other,FALSE
+Bony pelvis,Hip,FALSE
+Plexo,other,FALSE
+Analcanal,Pelvis,FALSE
+Lowerextre,Leg,FALSE
+Lwsisg,Hip,FALSE
+Atms,Other,FALSE
+Cholesteatome,Abdomen,FALSE
+Stpelvis,Pelvis,FALSE
+Footandankle,Leg,FALSE
+Hvg,Other,FALSE
+Dikkeknie,Knee,FALSE
+Adduktoren,Leg,FALSE
+Hypofyssella,Head,FALSE
+Wbmri,Wholebody,FALSE
+Kopf hws,Head,FALSE
+Midfootforefoot,Leg,FALSE
+Elbowr,Arm,FALSE
+R_knee,Knee,FALSE
+Arteries,Other,FALSE
+Defilethor,Chest,FALSE
+Bbaangio,Leg,MRA
+Ctorlspine,Spine,FALSE
+Elleboogstand,Arm,FALSE
+Maingche,Arm,FALSE
+Anal,Pelvis,FALSE
+Huf fessel,Leg,FALSE
+Uppermsk,Arm,FALSE
+Polytrauma,Other,FALSE
+Pelvisradioth,Pelvis,FALSE
+Hancheroutine,Hip,FALSE
+Antebraco,Arm,FALSE
+Handrt,Arm,FALSE
+Elastography,Abdomen,Elastography
+Uroirm,Pelvis,FALSE
+Whole foot,Leg,FALSE
+Lsplexus,Spine,FALSE
+Schaedelundhws,Head,FALSE
+Brainandcord,Head,FALSE
+Mra_mrv,Other,MRA
+Gesichtsschaedel,Head,FALSE
+Nierenarterien,Abdomen,FALSE
+Footright,Leg,FALSE
+Msk tumour,Other,FALSE
+Iacs,Head,FALSE
+Rtfinger,Arm,FALSE
+Biliary,Abdomen,FALSE
+Kidneyboth,Abdomen,FALSE
+Avant pied,Leg,FALSE
+Breast bilat,Breast,FALSE
+Hypofysestandaa,Head,FALSE
+Handen,Arm,FALSE
+Arteriesveins,Other,FALSE
+Masse,Other,FALSE
+Fingerthumb,Arm,FALSE
+C_l_spine,Spine,FALSE
+Axlialskele,Shoulder,FALSE
+Renalmra,Abdomen,MRA
+Acrweeklytest,Other,FALSE
+Brachailplexus,Shoulder,FALSE
+Ombro,Shoulder,FALSE
+C t spine,Spine,FALSE
+Hrbtenicaspine,Spine,FALSE
+Membre inf,Leg,FALSE
+Sacralplexus,Hip,FALSE
+Pelviirm,Pelvis,FALSE
+R wrist,Arm,FALSE
+Ankleu,Leg,FALSE
+Handr,Arm,FALSE
+Gyn,Pelvis,FALSE
+Sa,Other,FALSE
+Main poignet d,Arm,FALSE
+Scgelenk,Chest,FALSE
+20chmra,Other,FALSE
+Headphantom,Other,FALSE
+Voetmorton,Leg,FALSE
+Handhandgelenk,Arm,FALSE
+Piedchevilledt,Leg,FALSE
+Ankleright,Leg,FALSE
+Hersepilepsie,Head,FALSE
+Pieddroit,Leg,FALSE
+Tl,Other,FALSE
+Elbowl,Arm,FALSE
+Kycle,Hip,FALSE
+Staginguterus,Pelvis,FALSE
+Piedgauche,Leg,FALSE
+Ctl,Other,FALSE
+Wristu,Arm,FALSE
+Extremitaeten,Other,FALSE
+Abdoinf,Abdomen,FALSE
+Avpiedmorton,Leg,FALSE
+Ovaria,Pelvis,FALSE
+Handorwrist,Arm,FALSE
+Cardioshuntboc,Heart,FALSE
+Rankle,Leg,FALSE
+Ceangiobrain,Head,MRA
+Heupmetal,Hip,FALSE
+Mbrs inferieurs,Leg,FALSE
+Legmra,Leg,FALSE
+Watercylinder,Other,FALSE
+Sternoclavicular,Chest,FALSE
+Adrenals,Abdomen,FALSE
+Bassinmyelome,Pelvis,FALSE
+Chevgossetn,Leg,FALSE
+Qaqc,Other,FALSE
+Angiocarotids,Head,MRA
+Head_neck,Head,FALSE
+Headandcspine,Head,FALSE
+Kopfcarotis,Head,FALSE
+Qm,Other,FALSE
+Bilateral breast,Breast,FALSE
+Iac_,Head,FALSE
+Angiomi,Other,MRA
+Bihuler,Head,FALSE
+Masssoft,Other,FALSE
+Zapesti,Arm,FALSE
+Brainsellacont,Head,FALSE
+Tib_fib,Leg,FALSE
+Chevillegche,Leg,FALSE
+Sacroiliques,Hip,FALSE
+Voorvoet stand,Leg,FALSE
+Cwkmyelum,Spine,FALSE
+Footleft,Leg,FALSE
+Head  spine,Head,FALSE
+Trigeminal,Head,FALSE
+Angiomistd,Other,MRA
+Lleg,Leg,FALSE
+R_shoulder,Shoulder,FALSE
+Ankleleft,Leg,FALSE
+Pediatrics,Other,FALSE
+Poignet main,Arm,FALSE
+Candlspine,Spine,FALSE
+Intestingrele,Abdomen,FALSE
+Ltfinger,Arm,FALSE
+Wristr,Arm,FALSE
+Koncetinyhorni,Arm,FALSE
+Left ankle,Leg,FALSE
+R_foot,Leg,FALSE
+Si joint,Hip,FALSE
+Si jts,Hip,FALSE
+Aso,Other,FALSE
+Ltelbow,Arm,FALSE
+Sacro illiques,Hip,FALSE
+Vingerhand,Arm,FALSE
+Wristl,Arm,FALSE
+Peripheral_ce,Other,FALSE
+Sig,Other,FALSE
+Tetecolonne,Other,FALSE
+Wekedelen,Other,FALSE
+Gallblader,Abdomen,FALSE
+Ganzkoerpermra,Wholebody,FALSE
+Gws,Spine,FALSE
+Lower leg,Leg,FALSE
+Joelhoesquerdo,Knee,FALSE
+Mracarotid,Head,MRA
+R shoulder,Shoulder,FALSE
+Run off,Leg,FALSE
+Ls,Other,FALSE
+Acust,Head,FALSE
+Hersenstam,Head,FALSE
+Cholesteatoom,Abdomen,FALSE
+Sinfisepubica,Hip,FALSE
+Collum,Other,FALSE
+Periperal,Other,FALSE
+Stdfdgvasc,Other,FALSE
+Lumbar plexus,Spine,FALSE
+Bothhips,Hip,FALSE
+Genoudrexcoil,Knee,FALSE
+Ab,Other,FALSE
+Ayakbilek,Leg,FALSE
+Garantiklinik,Other,FALSE
+Handlt,Arm,FALSE
+Kotnik,Leg,FALSE
+Spinepelvis,Spine,FALSE
+Avantpied,Leg,FALSE
+Achillestendon,Leg,FALSE
+R knee,Knee,FALSE
+Pelvisorhip,Hip,FALSE
+Scjoint,Chest,FALSE
+Heupsig,Hip,FALSE
+Hypophse,Head,FALSE
+Gastroc,Leg,FALSE
+Abdomenmra,Abdomen,MRA
+Elbow options,Arm,FALSE
+Enterografie,Abdomen,FALSE
+Wirbelsaeule,Spine,FALSE
+Abdomenthorax,Mix,FALSE
+Anklelt,Leg,FALSE
+Mainsrhumatisme,Arm,FALSE
+Eabdeob,Abdomen,EOB
+Neck skull base,Head,FALSE
+Braincspn,Head,FALSE
+Fistuleoc,Pelvis,FALSE
+Main_poignet,Arm,FALSE
+Dspine,Spine,FALSE
+Plexusbrachialis,Shoulder,FALSE
+Lowerlimb,Leg,FALSE
+Artsacroiliac,Hip,FALSE
+Handl,Arm,FALSE
+Lower extreimity,Leg,FALSE
+R hip,Hip,FALSE
+Zmixte,Other,FALSE
+Braintrauma,Head,FALSE
+Jatra,Abdomen,FALSE
+Genemutation,Other,FALSE
+Plexobraquial,Shoulder,FALSE
+Abdosup,Abdomen,FALSE
+Backtumor,Spine,FALSE
+Isgsacrum,Hip,FALSE
+Lipome,Other,FALSE
+Elbowright,Arm,FALSE
+Entneck,Spine,FALSE
+Hipu,Hip,FALSE
+Hwslws,Spine,FALSE
+Sagomuz,Shoulder,FALSE
+Brachplex,Shoulder,FALSE
+Creuxaxilaires,Shoulder,FALSE
+Lwkpostop,Spine,FALSE
+Hipofisis,Head,FALSE
+Tlsp,Spine,FALSE
+1 hand,Arm,FALSE
+Gesws,Spine,FALSE
+Liv,Abdomen,FALSE
+Lankle,Leg,FALSE
+Pelvicneurogram,Pelvis,FALSE
+Headsinustromb,Head,FALSE
+Rt shoulder,Shoulder,FALSE
+Elbowleft,Arm,FALSE
+Headandtorso,Mix,FALSE
+Peds body,Other,FALSE
+Pubis,Hip,FALSE
+Sarcomaprotocol,Other,FALSE
+L_foot,Leg,FALSE
+Lympho,Other,FALSE
+Cavum,Head,FALSE
+H gd,Other,FALSE
+Petuitary,Head,FALSE
+Punho,Arm,FALSE
+Bandscheibe,Spine,FALSE
+Csf flow,Head,FALSE
+Gesamtews,Spine,FALSE
+Subclavia,Chest,FALSE
+Heupdgemric,Hip,FALSE
+L_shoulder,Shoulder,FALSE
+Rhand,Arm,FALSE
+Entreoirm,Abdomen,FALSE
+Research,Other,FALSE
+Aangezicht,Head,FALSE
+Pedeatrics,Other,FALSE
+Nierenagio,Abdomen,MRA
+Hemochromoc,Other,FALSE
+L shoulder,Shoulder,FALSE
+Oberschenkel,Leg,FALSE
+Hersstandaard,Head,FALSE
+Nierenangio,Abdomen,MRA
+Endo ca,Pelvis,FALSE
+Neckplaque,Spine,FALSE
+Verge,Pelvis,FALSE
+Coltotalis,Other,FALSE
+Avpiedstd,Leg,FALSE
+Becken bein,Hip,FALSE
+Ce,Other,FALSE
+Bracialplexus,Shoulder,FALSE
+Chest wall,Chest,FALSE
+Defeco,Pelvis,Defecography
+Armplexus,Arm,FALSE
+Paeds,Other,FALSE
+2brains,Head,FALSE
+Neurography,Other,FALSE
+Headorbita,Head,FALSE
+T,Other,FALSE
+Bonetumor,Other,FALSE
+Cardiodavdoc,Heart,FALSE
+Diaco,Other,FALSE
+Rleg,Leg,FALSE
+Rotation,Other,FALSE
+Handright,Arm,FALSE
+Ua,Other,FALSE
+Std,Other,FALSE
+Szbrain,Head,FALSE
+Tempmandibjt,Head,FALSE
+Bone tumor,Other,FALSE
+Bonemarrow,Spine,FALSE
+Cpa,Head,FALSE
+Lspin,Spine,FALSE
+Ptuitary,Head,FALSE
+Tmg,Other,FALSE
+Anklert,Leg,FALSE
+Plantar,Leg,FALSE
+Qualitycontrol,Other,FALSE
+Neckabdpelvis,Mix,FALSE
+Doigtstd,Arm,FALSE
+Oslongsstd,Other,FALSE
+Cardiovascular,Heart,FALSE
+Unterschekel,Leg,FALSE
+Ch,Other,FALSE
+Orbita,Head,FALSE
+Plexusbraquial,Shoulder,FALSE
+Stdgyneco,Pelvis,FALSE
+Spondylarthropat,Spine,FALSE
+Mrcp gd,Abdomen,MRCP
+Sagittalsinus,Head,FALSE
+Wsgesamt,Spine,FALSE
+Brainstealth,Head,FALSE
+Head neck,Head,FALSE
+Right,Other,FALSE
+Avpiedosteite,Leg,FALSE
+Genougexcoil,Knee,FALSE
+Mm gd,Other,FALSE
+Selle turcique,Head,FALSE
+Ayakbilegi,Leg,FALSE
+Orbits,Head,FALSE
+Rfoot,Leg,FALSE
+Heuparthroroos,Hip,FALSE
+C_th_spine,Spine,FALSE
+Fmrwithdti,Leg,DTI
+Main poignet g,Arm,FALSE
+Ossacrum,Hip,FALSE
+Minf,Leg,FALSE
+Axial skeleton,Other,FALSE
+Brainvessilwal,Head,FALSE
+Gynokology,Pelvis,FALSE
+Scelle turcique,Head,FALSE
+Plexus brachial,Shoulder,FALSE
+Mressentials,Other,FALSE
+Braplex,Shoulder,FALSE
+Cervico dorso l,Spine,FALSE
+Gallengaenge,Abdomen,FALSE
+Mrvhead,Head,MRV
+Hand_handgelenk,Arm,FALSE
+Peads,Other,FALSE
+Chole,Abdomen,FALSE
+L hip,Hip,FALSE
+Bicep tendon,Arm,FALSE
+Wrist left,Arm,FALSE
+Legleft,Leg,FALSE
+Rthand,Arm,FALSE
+Voeten,Leg,FALSE
+Intestin,Abdomen,FALSE
+Pel,Pelvis,FALSE
+Ct spine,Spine,FALSE
+Necksofttissue,Head,FALSE
+Membresuperieur,Arm,FALSE
+Rwrist,Arm,FALSE
+Sh,Other,FALSE
+Mrvbrain,Head,MRV
+Mracow,Other,MRA
+Msk pelvis,Pelvis,FALSE
+Wristprone,Arm,FALSE
+Bovenarm,Arm,FALSE
+Upper extrimity,Arm,FALSE
+Chestabd,Mix,FALSE
+Heupartro,Hip,FALSE
+Crane medullaire,Head,FALSE
+Bws_lws,Spine,FALSE
+Hypofyza,Head,FALSE
+Myositis,Leg,FALSE
+Skeletalsurvey,Other,FALSE
+Malformations,Other,FALSE
+Cranialnerves,Head,FALSE
+Headtrauma,Head,FALSE
+Schaedel_hws,Head,FALSE
+Skullbasemidthig,Head,FALSE
+Th_ls_spine,Spine,FALSE
+Renales,Abdomen,FALSE
+Sc joints,Chest,FALSE
+Epilepsy,Head,FALSE
+El,Other,FALSE
+Radiusulna,Arm,FALSE
+Research_head,Head,FALSE
+Fibromyomen,Pelvis,FALSE
+Mralowerleg,Leg,MRA
+Escapula,Shoulder,FALSE
+Gyn gd,Pelvis,FALSE
+Angiorenals,Abdomen,MRA
+Chevilledrte,Leg,FALSE
+Handleft,Arm,FALSE
+Lspinetumor,Spine,FALSE
+Pehmytosat,Other,FALSE
+Thigh mass,Leg,FALSE
+Costalarch,Chest,FALSE
+Headtrigeminus,Head,FALSE
+Hofte,Hip,FALSE
+Dti,Head,DTI
+Cspinetumor,Spine,FALSE
+Siled,Other,FALSE
+Chevtendonachi,Leg,FALSE
+Lefttibfib,Leg,FALSE
+Myeloma,Other,FALSE
+Abdpelvis,Abdomen,FALSE
+Kne,Knee,FALSE
+Brain_mrv,Head,MRV
+Lwrist,Arm,FALSE
+Cranerapide,Head,FALSE
+L hand,Arm,FALSE
+Placenta,Pelvis,FALSE
+Elbowlt,Arm,FALSE
+Anjio,Other,MRA
+Hrudnik,Chest,FALSE
+Pols arthro,Arm,FALSE
+Hemochromatose,Other,FALSE
+Renalartery,Abdomen,FALSE
+Abd_pel,Abdomen,FALSE
+Yuzeyelbolge,Other,FALSE
+Arto,Other,FALSE
+Ganzkoerper,Wholebody,FALSE
+Sijts,Hip,FALSE
+Skrotal,Pelvis,FALSE
+Braincarotid,Head,FALSE
+Plexo braquial,Shoulder,FALSE
+Abdomenangio,Abdomen,MRA
+Hersdementie,Head,FALSE
+Pelvismasculin,Pelvis,FALSE
+Armright,Arm,FALSE
+Handandwrist,Arm,FALSE
+T l spine,Spine,FALSE
+Wss,Spine,FALSE
+Hsprotocole,Hip,FALSE
+Spectroscopy,Other,MRS
+Adr,Abdomen,FALSE
+Angiographyce,Other,MRA
+R hand,Arm,FALSE
+Stroke,Head,FALSE
+Male pelvis,Pelvis,FALSE
+Musloder,Leg,FALSE
+Mre,Other,Elastography
+Pelvismsk,Pelvis,FALSE
+Brainmedulla,Head,FALSE
+Tissusmous,Other,FALSE
+Bla,Other,FALSE
+Fossenasales,Head,FALSE
+Toraks,Chest,FALSE
+Headms,Head,MRS
+Pro gd,Other,FALSE
+Lspinebotmeta,Spine,FALSE
+Angiorenalespt,Abdomen,MRA
+Faceneck,Head,FALSE
+Kreuzbein,Leg,FALSE
+Lowextremity,Leg,FALSE
+Sma,Abdomen,FALSE
+Hwsbwslws,Spine,FALSE
+Misc,Other,FALSE
+Perine,Pelvis,FALSE
+Appendix,Abdomen,FALSE
+Artrenales,Abdomen,FALSE
+Ct,Other,FALSE
+Righttibfib,Leg,FALSE
+Enteroclysis,Abdomen,FALSE
+Footlt,Leg,FALSE
+Iacbellspalsy,Head,FALSE
+Ombrodireito,Shoulder,FALSE
+Corpsentier,Wholebody,FALSE
+Lfoot,Leg,FALSE
+R_hand,Arm,FALSE
+Stneck,Spine,FALSE
+Aortathoracic,Chest,FALSE
+Angioce,Other,MRA
+Krk,Head,FALSE
+Small bowell,Abdomen,FALSE
+Lelbow,Arm,FALSE
+Thoraxwand,Chest,FALSE
+Kneejoint,Knee,FALSE
+Priority1,Other,FALSE
+Brainandspn,Head,FALSE
+Coma,Other,FALSE
+Torso,Chest,FALSE
+Footrt,Leg,FALSE
+Halsbloeddele,Spine,FALSE
+St mass,Other,FALSE
+Lumbosacral plex,Hip,FALSE
+Nast,Breast,FALSE
+Avant bras,Arm,FALSE
+Nerv,Other,FALSE
+Sinus_mfm,Head,FALSE
+Brain_c_spine,Head,FALSE
+Elbowrt,Arm,FALSE
+Eyes,Head,FALSE
+Temporalbone,Head,FALSE
+Hernia,Spine,FALSE
+Lwkmyelum,Spine,FALSE
+Subclavianangio,Chest,MRA
+Wrist right,Arm,FALSE
+Blase,Pelvis,FALSE
+Carotides,Head,FALSE
+Halsstandaard,Spine,FALSE
+Neurogram,Other,Neurography
+Ribchestwall,Chest,FALSE
+Sacrumsijoints,Hip,FALSE
+Solomuz,Other,FALSE
+Cela pater,Spine,FALSE
+Fonctionnelle,Other,FALSE
+Lt shoulder,Shoulder,FALSE
+Plexusbrachiale,Shoulder,FALSE
+Wole spine,Spine,FALSE
+Legright,Leg,FALSE
+Noha,Leg,FALSE
+Angioarterial,Other,MRA
+Scj,Chest,FALSE
+Bonetumour,Other,FALSE
+Neckangio,Spine,MRA
+Sacroiliaca,Hip,FALSE
+Wristlt,Arm,FALSE
+Prostat,Pelvis,FALSE
+Gemelo,Leg,FALSE
+Coude gauche,Arm,FALSE
+Pelvisosea,Hip,FALSE
+Uelongbone,Other,FALSE
+Mixte,Other,FALSE
+Plancherpelvien,Pelvis,FALSE
+Tle,Other,FALSE
+Femurright,Leg,FALSE
+Peds,Other,FALSE
+Pelvis male,Pelvis,FALSE
+Qualite,Other,FALSE
+Fossesnasales,Head,FALSE
+Tlspinekahler,Spine,FALSE
+Armleft,Arm,FALSE
+R ankle,Leg,FALSE
+Relbow,Arm,FALSE
+Lthand,Arm,FALSE
+Arthritis,Other,FALSE
+Coude droit,Arm,FALSE
+Ueangio,Other,MRA
+L_hand,Arm,FALSE
+Research head,Head,FALSE
+Clavicula,Shoulder,FALSE
+Lspinearthrod,Spine,FALSE
+Thoraxapertur,Chest,FALSE
+Ctl gd,Other,FALSE
+Paroi abdominal,Abdomen,FALSE
+Ceinture,Pelvis,FALSE
+Handu,Arm,FALSE
+Leverfocaal,Abdomen,FALSE
+Brain  cspine,Head,FALSE
+Brainrtplan,Head,FALSE
+Forarm,Arm,FALSE
+Orbitas,Head,FALSE
+Corps entier,Wholebody,FALSE
+Sellik,Abdomen,FALSE
+Colunacervical,Spine,FALSE
+Pectoral,Chest,FALSE
+Tumeur,Other,FALSE
+Abdomen3t,Abdomen,FALSE
+Mositis,Leg,FALSE
+Spaprotocol,Other,FALSE
+Lipoma,Other,FALSE
+Naspectro,Other,FALSE
+Patte,Leg,FALSE
+Armlt,Arm,FALSE
+Braintrigeminal,Head,FALSE
+Defecoirm,Pelvis,Defecography
+L ankle,Leg,FALSE
+Lspinepelvis,Spine,FALSE
+Abdominopelvic,Abdomen,FALSE
+Brainctl,Head,FALSE
+Myosite,Other,FALSE
+Clavicles,Shoulder,FALSE
+Selaturcica,Head,FALSE
+Vulva penile,Pelvis,FALSE
+Angio renale,Abdomen,MRA
+L foot,Leg,FALSE
+Mraneck,Spine,MRA
+Peripheral angio,Other,FALSE
+Sternoclav gewr,Chest,FALSE
+Brachial_plexus,Shoulder,FALSE
+Pelvis female,Pelvis,FALSE
+Pituatry,Head,FALSE
+R foot,Leg,FALSE
+Moellecervicale,Spine,FALSE
+Ovaries,Pelvis,FALSE
+Antebrazo,Arm,FALSE
+Bowel,Abdomen,FALSE
+Musloizq,Leg,FALSE
+Spinet,Spine,FALSE
+Hypofyse,Head,FALSE
+Angiombrsinfs,Leg,MRA
+Craneo columna,Head,FALSE
+Tendodaquiles,Leg,FALSE
+Feedwrap,Other,FALSE
+Lipom,Other,FALSE
+Pediatrik,Other,FALSE
+Angiohead,Head,MRA
+Chevillepied,Leg,FALSE
+Femurleft,Leg,FALSE
+Fussrechts,Leg,FALSE
+Mammoprothese,Breast,FALSE
+Th_ls,Spine,FALSE
+Membres inf,Leg,FALSE
+Midfoot,Leg,FALSE
+Thoracicmass,Chest,FALSE
+Craneetrachis,Head,FALSE
+Larm,Arm,FALSE
+Sacrumsijts,Hip,FALSE
+Twist,Other,FALSE
+Antebrachii,Arm,FALSE
+Biliary tree,Abdomen,FALSE
+Lowerlegmra,Leg,MRA
+Quadriceps,Leg,FALSE
+Sternoclavicle,Chest,FALSE
+Armrt,Arm,FALSE
+Carotidedel,Head,FALSE
+Toungue,Head,FALSE
+Wristrt,Arm,FALSE
+Anca,Hip,FALSE
+Anklerl,Leg,FALSE
+Braintotal,Head,FALSE
+Ges ws,Spine,FALSE
+Gluteo,Hip,FALSE
+R elbow,Arm,FALSE
+Braincowarch,Head,FALSE
+Cais,Other,FALSE
+H re,Other,FALSE
+Membres,Other,FALSE
+Ovaires,Pelvis,FALSE
+Pregnant,Other,FALSE
+Angiovenosa,Other,MRA
+H li,Other,FALSE
+Neckresearch,Spine,FALSE
+Dl spine,Spine,FALSE
+Mbrs infs,Leg,FALSE
+Smallintestine,Abdomen,FALSE
+C_th,Chest,FALSE
+Stifle,Other,FALSE
+Angio memb inf,Leg,MRA
+Schaedel hws bws,Head,FALSE
+Sportshernia,Leg,FALSE
+Veinespulm,Chest,FALSE
+Adrenalkidneys,Abdomen,FALSE
+Exa,Other,FALSE
+Left,Other,FALSE
+Shoulder arthro,Shoulder,FALSE
+Crane moelle,Head,FALSE
+Lumbarneurogram,Spine,FALSE
+Cearm,Arm,FALSE
+Mrs,Other,MRS
+Thoracicaorta,Chest,FALSE
+Angiombresinfs,Leg,MRA
+Angiombrinf,Leg,MRA
+Arml,Arm,FALSE
+Bba angio,Leg,MRA
+Skulder,Head,FALSE
+Spinesurvey,Spine,FALSE
+Trijumeaux,Head,FALSE
+Adenomyose,Pelvis,FALSE
+Kaulasuonet,Head,FALSE
+Loket,Arm,FALSE
+Neonate,Other,FALSE
+Ombroesquerdo,Shoulder,FALSE
+Rarm,Arm,FALSE
+Sc joint,Chest,FALSE
+Troublesvisuels,Head,FALSE
+Pcu,Other,FALSE
+Peripheralmra,Other,MRA
+Plexusbrach,Shoulder,FALSE
+Zsc,Other,FALSE
+Csplsp,Spine,FALSE
+Hiparthrogram,Hip,Arthrogram
+Neurographie,Other,Neurography
+Plastron,Other,FALSE
+Scjs,Chest,FALSE
+Sternoclav,Chest,FALSE
+Angiorenale,Abdomen,MRA
+Armangio,Arm,MRA
+Brachialp,Shoulder,FALSE
+Sijt,Hip,FALSE
+Stn,Head,FALSE
+Workbook,Other,FALSE
+Beckenbeine,Hip,FALSE
+Periferikangio,Pelvis,FALSE
+Urogram,Pelvis,Urography
+Armr,Arm,FALSE
+Brainspinew,Head,FALSE
+Longbonelower,Leg,FALSE
+Rt foot,Leg,FALSE
+Pelvisfemenina,Pelvis,FALSE
+Renalsarteries,Abdomen,FALSE
+Suprarenales,Abdomen,FALSE
+Upper arm,Arm,FALSE
+Abdomenag,Abdomen,FALSE
+Angio carotidas,Head,MRA
+Braincow,Other,FALSE
+Hers cran nerves,Head,FALSE
+Nbks,Pelvis,FALSE
+Oberarm,Arm,FALSE
+Spineaxis,Spine,FALSE
+Acrphantom,Other,FALSE
+Fruit,Other,FALSE
+Headavm,Head,FALSE
+Hjerne,Head,FALSE
+Lt foot,Leg,FALSE
+Posteriorfossa,Head,FALSE
+Brainspinalcord,Head,FALSE
+Cuisses jambes,Leg,FALSE
+Dotbreastbiops,Breast,FALSE
+Heuptumor,Hip,FALSE
+Lt ankle,Leg,FALSE
+Zimmer,Other,FALSE
+Hers neurits opt,Head,FALSE
+Lowerarm,Arm,FALSE
+Pelvisfistula,Pelvis,FALSE
+Venogram,Other,MRV
+Brainstem,Head,FALSE
+Mbinf,Leg,FALSE
+Renale,Abdomen,FALSE
+Brachialplelux,Shoulder,FALSE
+Memb inf,Leg,FALSE
+Plexuscervbrach,Mix,FALSE
+Ufe,Pelvis,FALSE
+Veno,Other,FALSE
+Extemities,Other,FALSE
+Leglt,Leg,FALSE
+Rightknee,Knee,FALSE
+Angioue,Other,MRA
+Biometsignature,Other,FALSE
+Knieb18routine,Knee,FALSE
+Np,Other,FALSE
+Digits,Arm,FALSE
+L spine,Spine,FALSE
+Lsp,Spine,FALSE
+Lumbosacralplex,Hip,FALSE
+Sacrum_coccyx,Hip,FALSE
+Cardiobasicpt,Heart,FALSE
+Liverdyn,Abdomen,FALSE
+Mra_routine,Other,MRA
+Rectal,Pelvis,FALSE
+Brain iac,Head,FALSE
+Cerveau,Head,FALSE
+Rectalca,Pelvis,FALSE
+Bekkenmdm,Hip,FALSE
+Bel,Other,FALSE
+C_th_ls_spine,Spine,FALSE
+Ce arm,Arm,FALSE
+Les2seins,Breast,FALSE
+Brachial pexus,Shoulder,FALSE
+Bracial plexus,Shoulder,FALSE
+Leftknee,Knee,FALSE
+Upperlimbleft,Arm,FALSE
+Brainpnsorbit,Head,FALSE
+Legrt,Leg,FALSE
+Mrabody,Wholebody,MRA
+Carotidcow,Other,FALSE
+Cervicofacialhm,Head,FALSE
+Hersenen n olfac,Head,FALSE
+Poignetcharret,Arm,FALSE
+Symphpubienne,Hip,FALSE
+Syn_prostate,Pelvis,FALSE
+Tumeurosseuse,Other,FALSE
+Bijnieren,Abdomen,FALSE
+Defecogram,Pelvis,Defecography
+Gaucher,Other,FALSE
+Aortitis,Other,FALSE
+Karotiden,Head,FALSE
+Marship,Hip,MARS
+Bechterew,Spine,FALSE
+Hand_wrist,Arm,FALSE
+Iliacbif,Pelvis,FALSE
+Ledematen,Other,FALSE
+Mra carotid,Head,MRA
+Pituitarysella,Head,FALSE
+Scjts,Chest,FALSE
+Urology,Pelvis,FALSE
+Grosszehe,Leg,FALSE
+Membre inferieur,Leg,FALSE
+Miembros inf,Leg,FALSE
+Mmii,Leg,FALSE
+Pectus,Chest,FALSE
+Shoulderjoint,Shoulder,FALSE
+Si_joints,Hip,FALSE
+Tooth,Head,FALSE
+Lytko,Other,FALSE
+Softtissuelump,Other,FALSE
+Taier,Other,FALSE
+Waterfantom,Other,FALSE
+Brain combo,Head,FALSE
+Brainorbit,Head,FALSE
+Nierenurethra,Abdomen,FALSE
+Radiotherapy,Other,FALSE
+Shoulder_rt,Shoulder,FALSE
+A_test,Other,FALSE
+Achillessehen,Leg,FALSE
+Bracheal plexus,Shoulder,FALSE
+Gynaepelvis,Pelvis,FALSE
+L elbow,Arm,FALSE
+Plexbrachtrau,Shoulder,FALSE
+Rt ankle,Leg,FALSE
+Uro,Pelvis,FALSE
+Bkastump,Other,FALSE
+Cspinesep,Spine,FALSE
+Billiarytree,Abdomen,FALSE
+Carotidesstd,Head,FALSE
+Cranialnvtgn,Head,FALSE
+Handfinger,Arm,FALSE
+Mb inf,Leg,FALSE
+Mravenogram,Other,MRA
+Orbitfaceneck,Head,FALSE
+Plexusbrachiali,Shoulder,FALSE
+Salivary glands,Head,FALSE
+Sciaticnerve,Leg,FALSE
+Tete,Head,FALSE
+Hals_thorax,Spine,FALSE
+Mra head,Head,MRA
+Neckwithcont,Spine,FALSE
+Prostaatrecidief,Pelvis,FALSE
+Sacro joint,Hip,FALSE
+Sternumstd,Chest,FALSE
+Thespine,Spine,FALSE
+Abdominalwall,Abdomen,FALSE
+Femurtibfib,Leg,FALSE
+Maodireita,Arm,FALSE
+Angio aorta,Chest,MRA
+Angio mmii,Other,MRA
+Angioneck,Spine,MRA
+Avantbrasjg,Arm,FALSE
+Becken beine,Hip,FALSE
+Liver lab,Abdomen,FALSE
+Logeprostatique,Pelvis,FALSE
+Mrachest,Chest,MRA
+Schaedel_carotis,Head,FALSE
+Angioaorta,Other,MRA
+Aortenabgaenge,Other,FALSE
+Bplexus,Shoulder,FALSE
+Cea,Other,FALSE
+Csacrocoxigea,Other,FALSE
+Fpelvis,Pelvis,FALSE
+Golentibia,Leg,FALSE
+Plexbrachtum,Shoulder,FALSE
+Seminomnachsorge,Other,FALSE
+Fullspine,Spine,FALSE
+Ambinf,Leg,FALSE
+Kid gd,Other,FALSE
+Sacro,Hip,FALSE
+Superficial,Other,FALSE
+Bothleg,Leg,FALSE
+Gluteus,Hip,FALSE
+Mrcpscreen,Abdomen,MRCP
+Msk_pelvis,Pelvis,FALSE
+Noncontrastmra,Other,MRA
+Plexo sacral,Hip,FALSE
+T gd,Other,FALSE
+Upperex,Arm,FALSE
+Vertebralciolum,Spine,FALSE
+Iacbrain,Head,FALSE
+Zapestje,Arm,FALSE
+Acrqa,Other,FALSE
+Analfistula,Pelvis,FALSE
+Brain_orbits,Head,FALSE
+H bds,Other,FALSE
+Headparkinson,Head,FALSE
+Spines,Spine,FALSE
+Heup adductoren,Hip,FALSE
+Biceps,Arm,FALSE
+Cardiac abdomen,Mix,FALSE
+Ce gd,Other,FALSE
+Hsc,Other,FALSE
+L_elbow,Arm,FALSE
+Lwkmetas,Spine,FALSE
+Plexus brach,Shoulder,FALSE
+Sternoclavicula,Chest,FALSE
+Brainmrv,Head,MRV
+Kneearthrogram,Knee,FALSE
+Lijevokoljeno,Leg,FALSE
+Myomap,Pelvis,FALSE
+Voies biliaires,Abdomen,FALSE
+Cheventorse,Other,FALSE
+Diqia,Hip,FALSE
+Foot_ankle,Leg,FALSE
+Hogere urineweg,Pelvis,FALSE
+Rein,Abdomen,FALSE
+Sgoberarm,Arm,FALSE
+Thoracolumbar,Chest,FALSE
+Foreman,Head,FALSE
+Membreinf,Leg,FALSE
+Neuroms,Other,FALSE
+Pineal,Head,FALSE
+Uretre,Pelvis,FALSE
+Gluteal,Hip,FALSE
+Lowflow,Other,FALSE
+Mraabdomen,Abdomen,MRA
+Quadraceps,Leg,FALSE
+Renal arteries,Abdomen,FALSE
+Arthrographie,Other,Arthrogram
+Fruidbody,Other,FALSE
+Parasinus,Head,FALSE
+Plexos,Other,FALSE
+Thumbsteners,Arm,FALSE
+Brain_cow,Other,FALSE
+Chest abdo,Mix,FALSE
+Dbsprotocol,Head,FALSE
+Defilethoracic,Chest,FALSE
+Distalbiceps,Arm,FALSE
+Kg,Other,FALSE
+Sc gelenke,Chest,FALSE
+Bolfsinus,Other,FALSE
+Brainthins,Head,FALSE
+Foream,Arm,FALSE
+Gamba,Leg,FALSE
+Herniapelvis,Pelvis,FALSE
+Kopfcea,Head,FALSE
+Leftankle,Leg,FALSE
+Lombar,Spine,FALSE
+Mao,Arm,FALSE
+Plexeussacralis,Hip,FALSE
+Punhodireito,Arm,FALSE
+Quadrilesquerdo,Leg,FALSE
+Temporallobes,Head,FALSE
+Ue,Other,FALSE
+Ulnarnerve,Arm,FALSE
+Bauchwand,abdomen,FALSE
+Brain_cow_caroti,Other,FALSE
+Bror,Other,FALSE
+Ewings,Other,FALSE
+Hoden,Pelvis,FALSE
+Intracraninfect,Head,FALSE
+Pelvisiqmr,Pelvis,FALSE
+Tortion,Pelvis,FALSE
+Urography,Pelvis,Urography
+Art renales,Abdomen,FALSE
+Coxa,Hip,FALSE
+Hers aq stenose,Other,FALSE
+Lhand,Arm,FALSE
+Mrarenal,Abdomen,MRA
+Msis,Other,FALSE
+Ra,Other,FALSE
+Shunt,Other,FALSE
+Arthritismass,Other,FALSE
+Headandcarotid,Head,FALSE
+Hersenencva,Head,FALSE
+Ivc,Other,FALSE
+Knie18tumor,Knee,FALSE
+Pelvishernia,Pelvis,FALSE
+Rt,Other,FALSE
+Tspineroutine,Spine,FALSE
+Anusrectum,Pelvis,FALSE
+Bbanativ,Leg,MRA
+Hemachromatosis,Other,FALSE
+Hyphphysis,Head,FALSE
+Lisfranc,Leg,FALSE
+Tlspin,Spine,FALSE
+Antepie,Leg,FALSE
+Braincsp,Head,FALSE
+Caderader,Hip,FALSE
+Cruris,Leg,FALSE
+Hipofiza,Head,FALSE
+Munecaderecha,Hip,FALSE
+Predkolenia,Leg,FALSE
+Rektum cervix,Pelvis,FALSE
+Schulterre,Shoulder,FALSE
+Unterschenkelosg,Leg,FALSE
+Brachialleft,Shoulder,FALSE
+Csptsp,Spine,FALSE
+Cwkpostop,Spine,FALSE
+Desnascapular,Shoulder,FALSE
+Entire spine,Spine,FALSE
+Heartandmra,Heart,MRA
+Lower legs,Leg,FALSE
+Mrsbrain,Head,MRS
+Osgrechts,Leg,FALSE
+Pecmuscle,Chest,FALSE
+Phantomacr,Other,FALSE
+Plexonervioso,Other,FALSE
+Thoraicspiqmr,Chest,FALSE
+Tibia_fibula,Leg,FALSE
+Totwkintraspmeta,Spine,FALSE
+Upperarm,Arm,FALSE
+Encephalepedia,Head,FALSE
+Rektum,Pelvis,FALSE
+Si jnts_sacrum,Hip,FALSE
+Sinusface,Head,FALSE
+Subcraviana,Head,FALSE
+Tibfibleft,Leg,FALSE
+Wang,Other,FALSE
+Aintracraneal,Head,FALSE
+Angioabd,Abdomen,MRA
+Angiotorax,Chest,MRA
+Blaindock,Other,FALSE
+Brachplexusarm,Shoulder,FALSE
+Clenok,Other,FALSE
+Cuirchevelu,Head,FALSE
+Divers,Arm,FALSE
+Doigtdroit,Arm,FALSE
+Lymphoirm,Other,FALSE
+Mbrs sup,Arm,FALSE
+Plantarfascie,Leg,FALSE
+Tarsus,Leg,FALSE
+Totwkmetas,Spine,FALSE
+Wristiqmr,Arm,FALSE
+Arteresrenales,Abdomen,FALSE
+Isgbds,Hip,FALSE
+Lowerexvein,Leg,FALSE
+Naso,Head,FALSE
+Nierenfocaal,Abdomen,FALSE
+Np neck,Spine,FALSE
+Orbity,Head,FALSE
+Oslongs,Other,FALSE
+Pelviene,Pelvis,FALSE
+Peripheral mra,Other,MRA
+Upperlimbright,Arm,FALSE
+Angio mmss,Other,MRA
+Angiomisc,Other,MRA
+Artsternoclav,Chest,FALSE
+Biceps tendon,Arm,FALSE
+Cervicaliqmr,Spine,FALSE
+Csf,Head,FALSE
+Helrygg,Spine,FALSE
+Heupmetaal,Hip,FALSE
+Lws bws,Spine,FALSE
+Mra extremity,Other,MRA
+Proctogram,Pelvis,FALSE
+Renala,Abdomen,FALSE
+Rt_wrist,Arm,FALSE
+S i joints,Hip,FALSE
+Schaedel und hws,Head,FALSE
+Sinu,Head,FALSE
+Throax,Chest,FALSE
+Venoussinuses,Head,FALSE
+Hers trigeminus,Head,FALSE
+Hippocampus,Head,FALSE
+Levascapulal,Shoulder,FALSE
+Lt_shoulder,Shoulder,FALSE
+Moelletotale,Spine,FALSE
+Munecaizquierd,Arm,FALSE
+Neuroeixo,Other,FALSE
+Pel gd,Other,FALSE
+Ruka,Arm,FALSE
+Sparanasals,Head,FALSE
+Stagingrectumtu,Pelvis,FALSE
+Brainiqmr,Head,FALSE
+Caviglia,Leg,FALSE
+Collarbone,Shoulder,FALSE
+Onderbenenbilat,Leg,FALSE
+Pec,Chest,FALSE
+Tumspinal,Spine,FALSE
+Urachus,Pelvis,FALSE
+Combo study,Mix,FALSE
+Crane et cou,Head,FALSE
+Csptsplsp,Spine,FALSE
+Foetusplacenta,Other,FALSE
+Illiosakral,Hip,FALSE
+Mra brain,Head,MRA
+Muecaizquierda,Arm,FALSE
+Rt_shoulder,Shoulder,FALSE
+Angiographien,Other,MRA
+Bothhand,Arm,FALSE
+Brachialright,Shoulder,FALSE
+Carotiden,Head,FALSE
+Cou crane,Head,FALSE
+Halsregion,Spine,FALSE
+Hancheprothese,Hip,FALSE
+Hip femur semac,Hip,FALSE
+Plexuslombaire,Spine,FALSE
+Rmencefalo,Head,FALSE
+Suprarenalgland,Abdomen,FALSE
+Tinnitus,Head,FALSE
+Uromr,Pelvis,FALSE
+Whole bodymarrow,Wholebody,FALSE
+Bilanvertige,Other,FALSE
+Brainiacs,Head,FALSE
+Ebo,Other,FALSE
+Halsplexus,Spine,FALSE
+Handra,Arm,FALSE
+Head32ch,Head,FALSE
+Hersenen trauma,Head,FALSE
+Illiosakralgelen,Hip,FALSE
+Lumbariqmr,Spine,FALSE
+Muecaderecha,Arm,FALSE
+Ovrebuk,Other,FALSE
+Pubicsymphysis,Hip,FALSE
+Rpd,Other,FALSE
+Shoulder gd,Shoulder,FALSE
+Tof,Other,FALSE
+Angiopelvis,Pelvis,MRA
+Brain_c_th_spine,Head,FALSE
+Brainneckangio,Head,MRA
+Brainspines,Head,FALSE
+C gd,Other,FALSE
+Cord compression,Other,FALSE
+Cspnandlspn,Spine,FALSE
+Gefaesse,Other,FALSE
+Kmangio,Other,MRA
+Kub,Other,FALSE
+Marge anale,Pelvis,FALSE
+Obere thoraxap,Chest,FALSE
+Pelvisosseous,Pelvis,FALSE
+Taipan,Other,FALSE
+Traumamoellest,Spine,FALSE
+Abdeob,Abdomen,EOB
+Angiolegs,Leg,FALSE
+C_th_ls,Spine,FALSE
+Chestabdoangio,Mix,MRA
+Grasset,Other,FALSE
+Halsbrostrygg,Spine,FALSE
+Handmra,Arm,FALSE
+Head_neck_artery,Head,FALSE
+Lws,Spine,FALSE
+M inferiores,Leg,FALSE
+Mav,Head,FALSE
+Mrv brain,Head,MRV
+Mrv head,Head,MRV
+Renalnitepny,Abdomen,FALSE
+Symphysispubis,Hip,FALSE
+Tljunction,Spine,FALSE
+Winkelmessung,Other,FALSE
+Adr gd,Abdomen,FALSE
+Bovenbenenbilat,Leg,FALSE
+Brainavc,Head,FALSE
+Brainctlspines,Head,FALSE
+Coneterminal,Other,FALSE
+Cx spine,Spine,FALSE
+Femur gd,Leg,FALSE
+Gagnlou,Pelvis,FALSE
+Handfingers,Arm,FALSE
+Headaquaduct,Head,FALSE
+Hyphophyse,Head,FALSE
+Multi,Other,FALSE
+Nekchstabd,Mix,FALSE
+Oral,Head,FALSE
+Pfote,Leg,FALSE
+Sinusitis,Head,FALSE
+Sttumor,Other,FALSE
+Zwerchfell,Abdomen,FALSE
+Anigo,Other,MRA
+Body mra,Wholebody,MRA
+Brainc,Head,FALSE
+Esterno,Spine,FALSE
+Halsbrustwirbels,Spine,FALSE
+Handangio,Arm,FALSE
+Headmracarotis,Head,FALSE
+Heup pubalgie,Hip,FALSE
+Lillebaekken,Pelvis,FALSE
+Mekke tkane,Other,FALSE
+Peau,Other,FALSE
+Rectum anus,Pelvis,FALSE
+Ribs,Chest,FALSE
+Righfemurtibf,Leg,FALSE
+Thoraxabdpelvis,Mix,FALSE
+Zizi,Pelvis,FALSE
+Ab gd,Abdomen,FALSE
+Adductors,Leg,FALSE
+Brain and neck,Head,FALSE
+Eeii,Leg,FALSE
+Facialnerve,Head,FALSE
+Gastrocnemius,Leg,FALSE
+Handiqmr,Arm,FALSE
+Hers sinus cav,Head,FALSE
+Lombmbrinf,Leg,FALSE
+Lumsacralplexus,Spine,FALSE
+Mandibula,Head,FALSE
+Mrarenals,Abdomen,MRA
+Myelo,Spine,FALSE
+Peripheralrun,Leg,FALSE
+Pitgland,Head,FALSE
+Plexolombar,Spine,FALSE
+Posteriorlesion,Other,FALSE
+Rahand,Arm,FALSE
+Rechts,Other,FALSE
+Rt thigh,Leg,FALSE
+Sijointsacrum,Hip,FALSE
+Twistsequences,Other,FALSE
+Zeigefinger,Arm,FALSE
+Zimmerknee,Knee,FALSE
+Angiomesenteriq,Abdomen,MRA
+Angiotsa,Other,MRA
+Animal,Other,FALSE
+Brainorbits,Head,FALSE
+C spine l spine,Spine,FALSE
+Cerspine,Spine,FALSE
+Cervixendometri,Pelvis,FALSE
+Costa,Chest,FALSE
+Ganglion,Arm,FALSE
+Gobraintest,Head,FALSE
+Inguinalhernia,Pelvis,FALSE
+Kenshinbrainpevi,Mix,FALSE
+Lspnmskpelv,Spine,FALSE
+Lt leg,Leg,FALSE
+Mbres infs,Leg,FALSE
+Orteils,Leg,FALSE
+Schnell,Other,FALSE
+Sij 2,Hip,FALSE
+Wall lump,Chest,FALSE
+Angioabdomen,Abdomen,MRA
+Avbrasantgenou,Arm,FALSE
+Brachialblexus,Shoulder,FALSE
+Bracial,Arm,FALSE
+Braqchial plexus,Shoulder,FALSE
+Fmri,Other,FALSE
+Head1,Head,FALSE
+L_low_leg,Leg,FALSE
+Langue,Head,FALSE
+Leftfoot,Leg,FALSE
+Lefthip,Hip,FALSE
+Leftshoulder,Shoulder,FALSE
+Lijevapotkoljen,Leg,FALSE
+Mb sup,Arm,FALSE
+Middenvoettalus,Leg,FALSE
+Perinium,Pelvis,FALSE
+Prostaat,Pelvis,FALSE
+R_elbow,Arm,FALSE
+Rt leg,Leg,FALSE
+Scrotumtestes,Pelvis,FALSE
+Seminom,Pelvis,FALSE
+Sinustrombose,Head,FALSE
+Templobes,Head,FALSE
+Trichterbrust,Chest,FALSE
+Untextremiaet,Leg,FALSE
+Volsousclavier,Chest,FALSE
+Wrsitnew,Arm,FALSE
+Abdandpelvis,Abdomen,FALSE
+Angio_peripheral,Other,MRA
+Athleticpubalgia,Hip,FALSE
+Bonepelvise,Hip,FALSE
+Em,Other,FALSE
+Head spine comb,Mix,FALSE
+Headspectro,Head,FALSE
+Heuparthro2019,Hip,FALSE
+Hip_,Hip,FALSE
+Hombro,Shoulder,FALSE
+Iliosakralgelenk,Hip,FALSE
+Kycel,Hip,FALSE
+Mm,Other,FALSE
+Msk lower,Leg,FALSE
+Oa,Other,FALSE
+Olfactory,Head,FALSE
+Quadrildireito,Leg,FALSE
+Rectalcanal,Pelvis,FALSE
+Rightfemur,Leg,FALSE
+Sacrococcy,Hip,FALSE
+Schou indir arth,Other,FALSE
+T1map15t,Other,FALSE
+Thorax oberbauch,Chest,FALSE
+Tsplsp,Spine,FALSE
+Abdominal,Abdomen,FALSE
+Angiogram,Other,MRA
+Atm bilat,Head,FALSE
+Braincsf,Head,FALSE
+Centralveins,Other,FALSE
+Col,Other,FALSE
+Ctsp,Spine,FALSE
+Ginocchio,Knee,FALSE
+Hands,Arm,FALSE
+Knae,Knee,FALSE
+Lwsbecken,Mix,FALSE
+Mammographie,Breast,FALSE
+Ms brain,Head,FALSE
+Neckcarotids,Head,FALSE
+Pelvis and thigh,Hip,FALSE
+Pelvisstd,Pelvis,FALSE
+Pmra,Other,MRA
+Predkolenie,Knee,FALSE
+Qiss,Other,FALSE
+Senoparanasales,Head,FALSE
+Subclaviaangio,Chest,MRA
+Swi,Head,SWI
+Thigh calves,Leg,FALSE
+Tibiafibia,Leg,FALSE
+Toes,Leg,FALSE
+Unknown,Other,FALSE
+Wristsupine,Arm,FALSE
+Acr phantom,Other,FALSE
+Aortic arch,Chest,FALSE
+Bcspine,Spine,FALSE
+Braccio,Arm,FALSE
+Brahialplexus,Shoulder,FALSE
+Colthoracique,Chest,FALSE
+Enkelvoet,Leg,FALSE
+Heuplplexus,Hip,FALSE
+Hock,Leg,FALSE
+Lspinemetas,Spine,FALSE
+Lt thigh,Leg,FALSE
+Mramrv,Other,MRA
+Neckiqmr,Spine,FALSE
+Parotis,Head,FALSE
+Pediacranequiet,Other,FALSE
+Sacru,Hip,FALSE
+Sciatica,Leg,FALSE
+Sternoclavikular,Chest,FALSE
+Angiocarotides,Head,MRA
+Arthritishand,Arm,FALSE
+Avantoangio,Other,MRA
+Cervica,Spine,FALSE
+Csp,Spine,FALSE
+Divertikulitis,Arm,FALSE
+Elleboogarthro,Arm,FALSE
+Endometre,Pelvis,FALSE
+Kniedot,Knee,FALSE
+Muskel,Other,FALSE
+Pelvis2,Pelvis,FALSE
+Portalvein,Abdomen,FALSE
+Sc gelenk,Hip,FALSE
+Schulter,Shoulder,FALSE
+Tibfibright,Leg,FALSE
+Ustext,Other,FALSE
+Adnexal,Pelvis,FALSE
+Boyun,Spine,FALSE
+Cvj,Head,FALSE
+Ganzkrper,Wholebody,FALSE
+Hersenennoncoop,Head,FALSE
+Karotidy,Head,FALSE
+Mbrsinferieurs,Leg,FALSE
+Mraabd,Abdomen,MRA
+Mri glowa,Head,FALSE
+Mrvsinuses,Head,MRV
+Pnsorbit,Head,FALSE
+Rachisoumoelle,Spine,FALSE
+Renalis,Abdomen,FALSE
+Schulterli,Shoulder,FALSE
+Senos,Breast,FALSE
+Thorakaleangio,Chest,MRA
+Vorfus,Leg,FALSE
+Arthroepauled,Shoulder,FALSE
+Cespine,Spine,FALSE
+Crosscalibratio,Other,FALSE
+Csfflow,Head,FALSE
+Jugular,Head,FALSE
+Lymph,Other,FALSE
+Mraspine,Spine,FALSE
+Mrvenoussinus,Head,MRV
+Pelvicmra,Pelvis,MRA
+Plexus einzeln,Other,FALSE
+Pori,Head,FALSE
+Scprotoocole,Head,FALSE
+Sternoclavicul,Chest,FALSE
+Waterphantom,Other,FALSE
+2qa,Other,FALSE
+Abdoblique,Abdomen,FALSE
+Bothbreasts,Breast,FALSE
+Cerveauavc,Head,FALSE
+Ctllocalizer,Other,FALSE
+Endometriosis,Pelvis,FALSE
+Hersenenmetas,Head,FALSE
+Hypofyse dr roex,Head,FALSE
+Knie18metaal,Knee,FALSE
+Lwspine,Spine,FALSE
+Plexus brachi,Shoulder,FALSE
+Test1,Other,FALSE
+Venography,Other,MRV
+Brachial plexis,Shoulder,FALSE
+Brianspine,Head,FALSE
+Columnacervical,Spine,FALSE
+Core,Wholebody,FALSE
+Headonrustig,Head,FALSE
+Mra runoff,Leg,MRA
+Mra32ch,Other,MRA
+Multiplestudies,Other,FALSE
+Prostateiqmr,Pelvis,FALSE
+Prostatestealth,Pelvis,FALSE
+Qatrr5,Other,FALSE
+Rt_knee,Knee,FALSE
+Thoacic,Chest,FALSE
+Tijian,Other,FALSE
+Toulu,Other,FALSE
+!newpart,Other,FALSE
+Arthroepaule,Shoulder,FALSE
+Avantohead,Head,FALSE
+Brachialplexis,Shoulder,FALSE
+Breast_,Breast,FALSE
+Extrimity,Other,FALSE
+Fetlock,Other,FALSE
+Finger1,Arm,FALSE
+Gt,Other,FALSE
+Headce,Head,FALSE
+Hpophyse,Head,FALSE
+J,Other,FALSE
+Localizer,Other,FALSE
+Lt_knee,Knee,FALSE
+Pit fossa,Head,FALSE
+Tofangio,Other,MRA
