@@ -2,7 +2,7 @@ import pandas as pd
 
 # Define file paths directly relative to the current working directory (PatientExchange)
 input_file = "Patient-Exchange-ML-TF/data/filt_176398_Brain.csv"
-output_file = "Patient-Exchange-ML-TF/data/encoded_176398_Brain.csv"
+output_file = "Patient-Exchange-ML-TF/data/encoded_176398_Brain_TEST.csv"
 
 # Load the data
 df = pd.read_csv(input_file)
