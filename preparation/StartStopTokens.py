@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Directory containing the original CSVs
-input_dir = './Patient-Exchange-ML-TF/data/filtered_blocks_padded/'  # Replace with the directory containing your CSV files
+input_dir = './data/filtered_blocks_padded/'  # Replace with the directory containing your CSV files
 output_dir = './tokenization'  # Directory to save the processed CSVs
 
 # Create the output directory if it doesn't exist
@@ -57,6 +57,9 @@ for csv_file in csv_files:
     zeros_indices = df.index[df["sourceID"] == 0]
     if len(zeros_indices) >= 2:
         df = df.drop(zeros_indices[:2]).reset_index(drop=True)
+
+    # Replace all remaining 0s in sourceID with 14
+    df["sourceID"] = df["sourceID"].replace(0, 14)
 
     print(f"Modified shape of {csv_file}: {df.shape}")
 
