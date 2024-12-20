@@ -33,8 +33,8 @@ def score_pair_of_sequences(seq_a, seq_b):
     """
     string_a = " ".join(map(str, seq_a))
     string_b = " ".join(map(str, seq_b))
-    return Levenshtein.ratio(string_a, string_b)
-
+    return Levenshtein.ratio(string_a, string_b) #translate the seq of items as strings, build the lev. ratio of string OR built in python library that works on words
+#seq of items, use characters 
 
 # Frequency comparison and visualization
 def make_frequency_plot(frequencies_a,
