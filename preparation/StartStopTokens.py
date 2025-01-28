@@ -3,7 +3,7 @@ import pandas as pd
 
 # Directory containing the original CSVs
 input_dir = './data/filtered_blocks_padded/'  # Replace with the directory containing your CSV files
-output_dir = './tokenization'  # Directory to save the processed CSVs
+output_dir = './tokenization_182625'  # Directory to save the processed CSVs
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)

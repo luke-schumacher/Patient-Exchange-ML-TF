@@ -2,10 +2,10 @@ import os
 import pandas as pd
 
 # Load your dataset (adjust the path to your data file)
-data = pd.read_csv('Patient-Exchange-ML-TF/data/encoded_176398_HEAD.csv')
+data = pd.read_csv('data/encoded_182625.csv')
 
 # Create a folder to store output CSVs
-output_folder = 'filtered_blocks'
+output_folder = 'filtered_blocks_182625'
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
