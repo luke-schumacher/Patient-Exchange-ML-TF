@@ -1,0 +1,37 @@
+text,timediff,PTAB,PL1,PL2,PL3,PL4,PR1,PR2,PR3,PR4,B1P,B2P,B3P,B4P,B5P,15K,sourceID_encoded,BodyGroup_to_encoded,BodyGroup_from_encoded
+"Measurement finished OK. (Protocol: 'REPEAT COR PD FS', Sequence: '%SiemensSeq%\tse')",0.0,-243900,,,,,,,,,,,,,,,10,10,7
+Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,61.00000000000001,-243900,,,,,,,,,,,,,,,12,10,7
+A patient has been registered successfully (545b9a8a81936d2c4c2834d364e9a2abaaa7dc72).,83.0,-243900,,,,,,,,,,,,,,,8,10,7
+Patient table has started moving. Absolute PTAB Position: -1190950,89.0,-1190950,,,,,,,,,,,,,,,4,10,7
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",96.0,-1190950,,,,,,,,,,,,,,,5,10,7
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",109.0,-1190950,,,,,,,,,,,,,,,5,10,7
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,2308,2307,131c,131d,0,0'. Connected coil elements: BC,FA,TO,SP1-8.)",109.0,-1190950,,,,,,,,,,,,,,,1,10,7
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,SP1-8.)",110.0,-1190950,,,,,,,,,,,,,,,1,10,7
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,13161315,1314,131c,131d,0,0'. Connected coil elements: BC,HE1-4,NE1,2,SP1-8.)",125.0,-1190950,,,,,,,,,,,,,,,1,10,7
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,1315,1314,131c,131d,0,0'. Connected coil elements: BC,HE2,4,NE2,SP1-8.)",126.0,-1190950,,,,,,,,,,,,,,,1,10,7
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,13161315,1314,131c,131d,0,0'. Connected coil elements: BC,HE1-4,NE1,2,SP1-8.)",285.0,-1190950,,,,,,,,,,,,,,,1,10,7
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,SP1-8.)",286.0,-1190950,,,,,,,,,,,,,,,1,10,7
+Patient table has started moving. Absolute PTAB Position: 1000,305.0,1000,,,,,,,,,,,,,,,4,10,7
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",306.0,1000,,,,,,,,,,,,,,,5,10,7
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",317.0,1000,,,,,,,,,,,,,,,5,10,7
+Patient table has started moving. Absolute PTAB Position: -750,317.0,-750,,,,,,,,,,,,,,,4,10,7
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",318.0,-750,,,,,,,,,,,,,,,5,10,7
+Patient table has started moving. Absolute PTAB Position: -400,320.0,-400,,,,,,,,,,,,,,,4,10,7
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",327.0,-400,,,,,,,,,,,,,,,5,10,7
+Patient table has started moving. Absolute PTAB Position: -987650,334.0,-987650,,,,,,,,,,,,,,,4,10,7
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",336.0,-987650,,,,,,,,,,,,,,,5,10,7
+Patient table has started moving. Absolute PTAB Position: -1079350,336.0,-1079350,,,,,,,,,,,,,,,4,10,7
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",338.0,-1079350,,,,,,,,,,,,,,,5,10,7
+Patient has been positioned,339.0,-1079350,,,,,,,,,,,,,,,7,10,7
+Patient table has started moving. Absolute PTAB Position: -1039900,339.0,-1039900,,,,,,,,,,,,,,,4,10,7
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",345.0,-1039900,,,,,,,,,,,,,,,5,10,7
+Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,355.0,-1039900,,,,,,,,,,,,,,,12,10,7
+A patient has been registered successfully (545b9a8a81936d2c4c2834d364e9a2abaaa7dc72).,363.0,-1039900,,,,,,,,,,,,,,,8,10,7
+"Start prepare. (Protocol: 'AASpine_Scout', Sequence: '%SiemensSeq%\AALScout')",396.0,-1039900,,,,,,,,,,,,,,,9,10,7
+0,396.0,-1039900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,396.0,-1039900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,396.0,-1039900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,396.0,-1039900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,396.0,-1039900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,396.0,-1039900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,396.0,-1039900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0

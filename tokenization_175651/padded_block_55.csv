@@ -1,0 +1,37 @@
+sourceID_encoded,timediff,PTAB,BodyGroup_from_encoded,BodyGroup_to_encoded,text,PL1,PL2,PL3,PL4,PR1,PR2,PR3,PR4,B1P,B2P,B3P,B4P,B5P,15K
+13,0.0,-1294000,7,10,,,,,,,,,,,,,,,
+10,0.0,-1294000,7,10,"Measurement finished OK. (Protocol: 'COR T1', Sequence: '%SiemensSeq%\tse')",,,,,,,,,,,,,,
+4,82.0,-1259000,7,10,Patient table has started moving. Absolute PTAB Position: -1259000,,,,,,,,,,,,,,
+5,90.0,-1259000,7,10,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+1,90.0,-1259000,7,10,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,SP1-8.)",,,,,,,,,,,,,,
+5,106.0,-1259000,7,10,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",,,,,,,,,,,,,,
+12,152.0,-1259000,7,10,Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,,,,,,,,,,,,,,
+8,156.0,-1259000,7,10,A patient has been registered successfully (4568b678a5cdb52ec289598a53e9b2f507a028da).,,,,,,,,,,,,,,
+12,166.0,-1259000,7,10,Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,,,,,,,,,,,,,,
+8,180.0,-1259000,7,10,A patient has been registered successfully (dc94019692cf6019533393cdf398c68fb55990d7).,,,,,,,,,,,,,,
+4,200.0,250,7,10,Patient table has started moving. Absolute PTAB Position: 250,,,,,,,,,,,,,,
+5,201.0,250,7,10,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",,,,,,,,,,,,,,
+5,212.0,250,7,10,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+4,227.0,150,7,10,Patient table has started moving. Absolute PTAB Position: 150,,,,,,,,,,,,,,
+5,233.00000000000003,150,7,10,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+7,233.00000000000003,150,7,10,Patient has been positioned,,,,,,,,,,,,,,
+4,233.00000000000003,-863200,7,10,Patient table has started moving. Absolute PTAB Position: -863200,,,,,,,,,,,,,,
+5,239.00000000000003,-863200,7,10,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+9,271.0,-863200,7,10,"Start prepare. (Protocol: 'AASpine_Scout', Sequence: '%SiemensSeq%\AALScout')",,,,,,,,,,,,,,
+14,271.0,-863200,0,0,,,,,,,,,,,,,,,
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,271.0,-863200,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

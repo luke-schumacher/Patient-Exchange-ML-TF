@@ -1,0 +1,37 @@
+text,timediff,PTAB,PL1,PL2,PL3,PL4,PR1,PR2,PR3,PR4,B1P,B2P,B3P,B4P,B5P,15K,sourceID_encoded,BodyGroup_to_encoded,BodyGroup_from_encoded
+"Measurement finished OK. (Protocol: 'AX OBL STIR', Sequence: '%SiemensSeq%\tse')",0.0,-313050,,,,,,,,,,,,,,,10,7,7
+"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",21.0,-313050,,,,,,,,,,,,,,,5,7,7
+Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,60.00000000000001,-313050,,,,,,,,,,,,,,,12,7,7
+Patient table has started moving. Absolute PTAB Position: 1250,193.0,1250,,,,,,,,,,,,,,,4,7,7
+"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",194.0,1250,,,,,,,,,,,,,,,5,7,7
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",207.0,1250,,,,,,,,,,,,,,,5,7,7
+Patient table has started moving. Absolute PTAB Position: -600,207.0,-600,,,,,,,,,,,,,,,4,7,7
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",208.0,-600,,,,,,,,,,,,,,,5,7,7
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,2308,2307,131c,131d,0,0'. Connected coil elements: BC,FA,TO,SP1-8.)",221.0,-600,,,,,,,,,,,,,,,1,7,7
+Patient table has started moving. Absolute PTAB Position: -100,238.00000000000003,-100,,,,,,,,,,,,,,,4,7,7
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",241.00000000000003,-100,,,,,,,,,,,,,,,5,7,7
+Patient table has started moving. Absolute PTAB Position: -255550,241.00000000000003,-255550,,,,,,,,,,,,,,,4,7,7
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",242.00000000000003,-255550,,,,,,,,,,,,,,,5,7,7
+Patient has been positioned,243.00000000000003,-255550,,,,,,,,,,,,,,,7,7,7
+Patient table has started moving. Absolute PTAB Position: -302700,244.00000000000003,-302700,,,,,,,,,,,,,,,4,7,7
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",250.00000000000003,-302700,,,,,,,,,,,,,,,5,7,7
+A patient has been registered successfully (215441b5212ac2ca4c41b3be76bdb8314b08733f).,267.0,-302700,,,,,,,,,,,,,,,8,7,7
+"Start prepare. (Protocol: 'AX LOC', Sequence: '%SiemensSeq%\gre')",288.0,-302700,,,,,,,,,,,,,,,9,7,7
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,288.0,-302700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0

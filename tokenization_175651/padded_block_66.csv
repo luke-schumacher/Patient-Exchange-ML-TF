@@ -1,0 +1,37 @@
+sourceID_encoded,timediff,PTAB,BodyGroup_from_encoded,BodyGroup_to_encoded,text,PL1,PL2,PL3,PL4,PR1,PR2,PR3,PR4,B1P,B2P,B3P,B4P,B5P,15K
+13,0.0,-303250,7,3,,,,,,,,,,,,,,,
+10,0.0,-303250,7,3,"Measurement finished OK. (Protocol: 'AX OBL STIR', Sequence: '%SiemensSeq%\tse')",,,,,,,,,,,,,,
+4,2.0,-1176050,7,3,Patient table has started moving. Absolute PTAB Position: -1176050,,,,,,,,,,,,,,
+5,9.0,-1176050,7,3,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+5,28.0,-1176050,7,3,"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",,,,,,,,,,,,,,
+1,48.0,-1176050,7,3,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,2308,2307,131c,131d,0,0'. Connected coil elements: BC,FA,TO,SP1-8.)",,,,,,,,,,,,,,
+1,50.0,-1176050,7,3,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,SP1-8.)",,,,,,,,,,,,,,
+1,72.0,-1176050,7,3,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,13161315,1314,131c,131d,0,0'. Connected coil elements: BC,HE1-4,NE1,2,SP1-8.)",,,,,,,,,,,,,,
+1,94.0,-1176050,7,3,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,1315,1314,131c,131d,0,0'. Connected coil elements: BC,HE2,4,NE2,SP1-8.)",,,,,,,,,,,,,,
+4,171.0,800,7,3,Patient table has started moving. Absolute PTAB Position: 800,,,,,,,,,,,,,,
+5,172.0,800,7,3,"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",,,,,,,,,,,,,,
+5,185.0,800,7,3,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+4,189.0,50,7,3,Patient table has started moving. Absolute PTAB Position: 50,,,,,,,,,,,,,,
+1,189.0,50,7,3,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,13161315,1314,131c,131d,0,0'. Connected coil elements: BC,HE1-4,NE1,2,SP1-8.)",,,,,,,,,,,,,,
+5,193.0,50,7,3,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+4,195.0,-203850,7,3,Patient table has started moving. Absolute PTAB Position: -203850,,,,,,,,,,,,,,
+5,196.0,-203850,7,3,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+7,197.0,-203850,7,3,Patient has been positioned,,,,,,,,,,,,,,
+4,197.0,-218750,7,3,Patient table has started moving. Absolute PTAB Position: -218750,,,,,,,,,,,,,,
+5,203.0,-218750,7,3,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+12,208.0,-218750,7,3,Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,,,,,,,,,,,,,,
+8,224.0,-218750,7,3,A patient has been registered successfully (a57c5a9beeb5b76b7db5ff2c123871173f98f962).,,,,,,,,,,,,,,
+9,257.0,-218750,7,3,"Start prepare. (Protocol: 'SCOUT AUTO ALIGN', Sequence: '%SiemensSeq%\AALScout')",,,,,,,,,,,,,,
+14,257.0,-218750,0,0,,,,,,,,,,,,,,,
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,257.0,-218750,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

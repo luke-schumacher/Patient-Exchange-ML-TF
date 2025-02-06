@@ -1,0 +1,37 @@
+sourceID_encoded,timediff,PTAB,BodyGroup_from_encoded,BodyGroup_to_encoded,text,PL1,PL2,PL3,PL4,PR1,PR2,PR3,PR4,B1P,B2P,B3P,B4P,B5P,15K
+13,0.0,-644750,1,0,,,,,,,,,,,,,,,
+10,0.0,-644750,1,0,"Measurement finished OK. (Protocol: 'C+ AX VIBE HI-RES DELAY ABD', Sequence: '%SiemensSeq%\fl3d_vibe')",,,,,,,,,,,,,,
+4,31.000000000000004,-1420900,1,0,Patient table has started moving. Absolute PTAB Position: -1420900,,,,,,,,,,,,,,
+5,39.0,-1420900,1,0,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+1,67.0,-1420900,1,0,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,130f,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,BO1-3,SP1-8.)",,,,,,,,,,,,,,
+1,68.0,-1420900,1,0,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,130f0000,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,BO1-3,SP1-8.)",,,,,,,,,,,,,,
+5,103.0,-1420900,1,0,"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",,,,,,,,,,,,,,
+1,163.0,-1420900,1,0,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,130f0000,0,0,13161315,1314,131c,131d,0,0'. Connected coil elements: BC,BO1-3,HE1-4,NE1,2,SP1-8.)",,,,,,,,,,,,,,
+1,164.0,-1420900,1,0,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,130f0000,0,0,1315,1314,131c,131d,0,0'. Connected coil elements: BC,BO1-3,HE2,4,NE2,SP1-8.)",,,,,,,,,,,,,,
+12,460.00000000000006,-1420900,1,0,Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,,,,,,,,,,,,,,
+8,789.0,-1420900,1,0,A patient has been registered successfully (4e392c61841f6cca2491d7b51215f329b4c9ff5c).,,,,,,,,,,,,,,
+4,986.0,600,1,0,Patient table has started moving. Absolute PTAB Position: 600,,,,,,,,,,,,,,
+5,987.0,600,1,0,"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",,,,,,,,,,,,,,
+5,1001.0,600,1,0,"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+1,1115.0,600,1,0,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,130f0000,0,0,13161315,1314,131c,131d,0,0'. Connected coil elements: BC,BO1-3,HE1-4,NE1,2,SP1-8.)",,,,,,,,,,,,,,
+1,1119.0,600,1,0,"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,130f000000000000,0,0,13161315,1314,131c,131d,0,0'. Connected coil elements: BC,BO1-3,HE1-4,NE1,2,SP1-8.)",,,,,,,,,,,,,,
+4,1145.0,250,1,0,Patient table has started moving. Absolute PTAB Position: 250,,,,,,,,,,,,,,
+5,1149.0,250,1,0,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+4,1149.0,-328900,1,0,Patient table has started moving. Absolute PTAB Position: -328900,,,,,,,,,,,,,,
+5,1150.0,-328900,1,0,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+4,1150.0,-375650,1,0,Patient table has started moving. Absolute PTAB Position: -375650,,,,,,,,,,,,,,
+5,1151.0,-375650,1,0,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+7,1152.0,-375650,1,0,Patient has been positioned,,,,,,,,,,,,,,
+4,1152.0,-398900,1,0,Patient table has started moving. Absolute PTAB Position: -398900,,,,,,,,,,,,,,
+5,1158.0,-398900,1,0,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+4,1178.0,-1318900,1,0,Patient table has started moving. Absolute PTAB Position: -1318900,,,,,,,,,,,,,,
+5,1180.0,-1318900,1,0,"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",,,,,,,,,,,,,,
+9,1196.0,-1318900,1,0,"Start prepare. (Protocol: 'localizer', Sequence: '%SiemensSeq%\gre')",,,,,,,,,,,,,,
+14,1196.0,-1318900,0,0,,,,,,,,,,,,,,,
+14,1196.0,-1318900,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,1196.0,-1318900,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,1196.0,-1318900,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,1196.0,-1318900,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,1196.0,-1318900,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,1196.0,-1318900,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,1196.0,-1318900,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

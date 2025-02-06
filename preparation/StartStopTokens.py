@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # Directory containing the original CSVs
-input_dir = './data/filtered_blocks_padded/'  # Replace with the directory containing your CSV files
-output_dir = './tokenization_182625'  # Directory to save the processed CSVs
+input_dir = './data/filtered_blocks_padded_175651/'  # Replace with the directory containing your CSV files
+output_dir = './tokenization_175651'  # Directory to save the processed CSVs
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
@@ -23,7 +23,7 @@ for csv_file in csv_files:
     print(f"Initial shape of {csv_file}: {df.shape}")
 
     # Ensure required columns exist
-    required_columns = ["sourceID", "timediff", "PTAB", "BodyGroup_from", "BodyGroup_to"]
+    required_columns = ["sourceID_encoded", "timediff", "PTAB", "BodyGroup_from_encoded", "BodyGroup_to_encoded"]
     for col in required_columns:
         if col not in df.columns:
             print(f"Error: Column '{col}' not found in {csv_file}")
@@ -33,33 +33,33 @@ for csv_file in csv_files:
     first_values = {
         "timediff": 0,
         "PTAB": df["PTAB"].dropna().iloc[0] if not df["PTAB"].dropna().empty else None,
-        "BodyGroup_from": df["BodyGroup_from"].dropna().iloc[0] if not df["BodyGroup_from"].dropna().empty else None,
-        "BodyGroup_to": df["BodyGroup_to"].dropna().iloc[0] if not df["BodyGroup_to"].dropna().empty else None,
+        "BodyGroup_from_encoded": df["BodyGroup_from_encoded"].dropna().iloc[0] if not df["BodyGroup_from_encoded"].dropna().empty else None,
+        "BodyGroup_to_encoded": df["BodyGroup_to_encoded"].dropna().iloc[0] if not df["BodyGroup_to_encoded"].dropna().empty else None,
     }
-    new_row_13 = pd.DataFrame([{"sourceID": 13, **first_values}])
+    new_row_13 = pd.DataFrame([{"sourceID_encoded": 13, **first_values}])
     df = pd.concat([new_row_13, df]).reset_index(drop=True)
 
-    # Check if sourceID 9 exists before adding 14
-    if 9 in df["sourceID"].values:
+    # Check if sourceID_encoded 9 exists before adding 14
+    if 9 in df["sourceID_encoded"].values:
         last_values = {
             "timediff": df["timediff"].dropna().iloc[-1] if not df["timediff"].dropna().empty else None,
             "PTAB": df["PTAB"].dropna().iloc[-1] if not df["PTAB"].dropna().empty else None,
-            "BodyGroup_from": df["BodyGroup_from"].dropna().iloc[-1] if not df["BodyGroup_from"].dropna().empty else None,
-            "BodyGroup_to": df["BodyGroup_to"].dropna().iloc[-1] if not df["BodyGroup_to"].dropna().empty else None,
+            "BodyGroup_from_encoded": df["BodyGroup_from_encoded"].dropna().iloc[-1] if not df["BodyGroup_from_encoded"].dropna().empty else None,
+            "BodyGroup_to_encoded": df["BodyGroup_to_encoded"].dropna().iloc[-1] if not df["BodyGroup_to_encoded"].dropna().empty else None,
         }
-        new_row_14 = pd.DataFrame([{"sourceID": 14, **last_values}])
-        index_9 = df.index[df["sourceID"] == 9][0]
+        new_row_14 = pd.DataFrame([{"sourceID_encoded": 14, **last_values}])
+        index_9 = df.index[df["sourceID_encoded"] == 9][0]
         df = pd.concat([df.iloc[:index_9 + 1], new_row_14, df.iloc[index_9 + 1:]]).reset_index(drop=True)
     else:
-        print(f"No sourceID 9 found in {csv_file}, skipping addition of 14.")
+        print(f"No sourceID_encoded 9 found in {csv_file}, skipping addition of 14.")
 
-    # Remove exactly two occurrences of 0 in the sourceID column
-    zeros_indices = df.index[df["sourceID"] == 0]
+    # Remove exactly two occurrences of 0 in the sourceID_encoded column
+    zeros_indices = df.index[df["sourceID_encoded"] == 0]
     if len(zeros_indices) >= 2:
         df = df.drop(zeros_indices[:2]).reset_index(drop=True)
 
-    # Replace all remaining 0s in sourceID with 14
-    df["sourceID"] = df["sourceID"].replace(0, 14)
+    # Replace all remaining 0s in sourceID_encoded with 14
+    df["sourceID_encoded"] = df["sourceID_encoded"].replace(0, 14)
 
     print(f"Modified shape of {csv_file}: {df.shape}")
 

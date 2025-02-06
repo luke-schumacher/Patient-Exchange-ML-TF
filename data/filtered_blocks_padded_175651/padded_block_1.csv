@@ -1,0 +1,37 @@
+text,timediff,PTAB,PL1,PL2,PL3,PL4,PR1,PR2,PR3,PR4,B1P,B2P,B3P,B4P,B5P,15K,sourceID_encoded,BodyGroup_to_encoded,BodyGroup_from_encoded
+"Measurement finished OK. (Protocol: 'COR PD FS', Sequence: '%SiemensSeq%\tse')",0.0,-708250,,,,,,,,,,,,,,,10,9,6
+Patient table has started moving. Absolute PTAB Position: -1608950,14.0,-1608950,,,,,,,,,,,,,,,4,9,6
+Measurement control information: measurement has been stopped by user. ID: syngo.MR.MRI_MSR_NlsMessageId.Resources.MSRmsg.MRI_MSR_I_34_USER_STOP,15.000000000000002,-1608950,,,,,,,,,,,,,,,12,9,6
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",24.0,-1608950,,,,,,,,,,,,,,,5,9,6
+A patient has been registered successfully (38f7f4c6c4a1a5b45dad45032a80d9abe98b187e).,33.0,-1608950,,,,,,,,,,,,,,,8,9,6
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,0,0,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,SP1-8.)",57.0,-1608950,,,,,,,,,,,,,,,1,9,6
+"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",63.00000000000001,-1608950,,,,,,,,,,,,,,,5,9,6
+Patient table has started moving. Absolute PTAB Position: 550,179.0,550,,,,,,,,,,,,,,,4,9,6
+"YAxisUpPossible: 1, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 0, argument values are boolean.",181.0,550,,,,,,,,,,,,,,,5,9,6
+"YAxisUpPossible: 1, YAxisDownPossible: 1, argument values are boolean. ZAxisOutPossible: 0, ZAxisInPossible: 1, argument values are boolean.",194.0,550,,,,,,,,,,,,,,,5,9,6
+"Coil change event was handled successfully. (Coil context: 'default'. Coil plug codes: 'ff,2309,0,0,0,0,0,131c,131d,0,0'. Connected coil elements: BC,SHA,SP1-8.)",210.0,550,,,,,,,,,,,,,,,1,9,6
+Patient table has started moving. Absolute PTAB Position: -550,251.00000000000003,-550,,,,,,,,,,,,,,,4,9,6
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",256.0,-550,,,,,,,,,,,,,,,5,9,6
+Patient table has started moving. Absolute PTAB Position: -591200,256.0,-591200,,,,,,,,,,,,,,,4,9,6
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",257.0,-591200,,,,,,,,,,,,,,,5,9,6
+Patient table has started moving. Absolute PTAB Position: -579800,257.0,-579800,,,,,,,,,,,,,,,4,9,6
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",261.0,-579800,,,,,,,,,,,,,,,5,9,6
+Patient table has started moving. Absolute PTAB Position: -473400,261.0,-473400,,,,,,,,,,,,,,,4,9,6
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",262.0,-473400,,,,,,,,,,,,,,,5,9,6
+Patient has been positioned,263.0,-473400,,,,,,,,,,,,,,,7,9,6
+Patient table has started moving. Absolute PTAB Position: -448700,263.0,-448700,,,,,,,,,,,,,,,4,9,6
+"YAxisUpPossible: 0, YAxisDownPossible: 0, argument values are boolean. ZAxisOutPossible: 1, ZAxisInPossible: 1, argument values are boolean.",269.0,-448700,,,,,,,,,,,,,,,5,9,6
+"Start prepare. (Protocol: 'AAShoulder_Scout', Sequence: '%SiemensSeq%\AALScout')",304.0,-448700,,,,,,,,,,,,,,,9,9,6
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+0,304.0,-448700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0

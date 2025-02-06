@@ -1,43 +1,52 @@
 import pandas as pd
 
-# Define file paths directly relative to the current working directory (PatientExchange)
-input_file = "data/filtered_182625.csv"
-output_file = "data/encoded_182625.csv"
+# Define file paths
+data_file = "data/filtered_175651.csv"
+output_file = "data/encoded_175651.csv"
 
-# Load the data
-df = pd.read_csv(input_file)
+# Encoding legends
+ENCODING_LEGEND = {
+    'Not Vital': 0, 'MRI_CCS_11': 1, 'MRI_EXU_95': 2, 'MRI_FRR_18': 3, 'MRI_FRR_257': 4,
+    'MRI_FRR_264': 5, 'MRI_FRR_3': 6, 'MRI_FRR_34': 7, 'MRI_MPT_1005': 8,
+    'MRI_MSR_100': 9, 'MRI_MSR_104': 10, 'MRI_MSR_21': 11, 'MRI_MSR_34': 12
+}
 
-# Print the column names to check if 'BodyGroup_to', 'BodyGroup_from', and 'sourceID' exist
-print("Columns in the DataFrame:", df.columns)
+BODYGROUP_ENCODING = {
+    'ABDOMEN': 1, 'ARM': 2, 'HEAD': 3, 'HEART': 4, 'HIP': 5,
+    'KNEE': 6, 'LEG': 7, 'PELVIS': 8, 'SHOULDER': 9, 'SPINE': 10
+}
 
-# Generate the legends using original text values for 'BodyGroup_to', 'BodyGroup_from', and 'sourceID'
-bodygroup_to_legend = df['BodyGroup_to'].astype('category').cat.categories
-bodygroup_from_legend = df['BodyGroup_from'].astype('category').cat.categories
-sourceid_legend = df['sourceID'].astype('category').cat.categories
+# Load data
+df = pd.read_csv(data_file)
 
-# Map the original text names to numeric codes for 'BodyGroup_to', 'BodyGroup_from', and 'sourceID'
-df['BodyGroup_to_encoded'] = df['BodyGroup_to'].astype('category').cat.codes + 1  # Shift codes to be positive
-df['BodyGroup_from_encoded'] = df['BodyGroup_from'].astype('category').cat.codes + 1  # Shift codes to be positive
-df['sourceID_encoded'] = df['sourceID'].astype('category').cat.codes + 1  # Shift codes to be positive
+# Print column names to verify required columns exist
+print("Columns in the DataFrame:", df.columns.tolist())
 
-# Save the encoded data to a new CSV file
-df_encoded = df.drop(columns=['BodyGroup_to', 'BodyGroup_from', 'sourceID'])  # Keep only encoded versions
+# Encode 'sourceID' using predefined legend
+df['sourceID_encoded'] = df['sourceID'].map(ENCODING_LEGEND)
+
+# Encode 'BodyGroup_to' and 'BodyGroup_from' using predefined legend
+df['BodyGroup_to_encoded'] = df['BodyGroup_to'].map(BODYGROUP_ENCODING)
+df['BodyGroup_from_encoded'] = df['BodyGroup_from'].map(BODYGROUP_ENCODING)
+
+# Handle missing mappings (if any values were not found in the legends)
+df.fillna({'sourceID_encoded': 0, 'BodyGroup_to_encoded': 0, 'BodyGroup_from_encoded': 0}, inplace=True)
+df = df.astype({'sourceID_encoded': 'int32', 'BodyGroup_to_encoded': 'int32', 'BodyGroup_from_encoded': 'int32'})
+
+# Save the encoded data
+df_encoded = df.drop(columns=['BodyGroup_to', 'BodyGroup_from', 'sourceID'])
 df_encoded.to_csv(output_file, index=False)
 
-# Print the legends for reference
-print("\nBodyGroup_to Encoding Legend:")
-for code, bodygroup_to in enumerate(bodygroup_to_legend, start=1):
-    print(f"{code}: {bodygroup_to}")
-
-print("\nBodyGroup_from Encoding Legend:")
-for code, bodygroup_from in enumerate(bodygroup_from_legend, start=1):
-    print(f"{code}: {bodygroup_from}")
-
+# Print encoding legends
 print("\nsourceID Encoding Legend:")
-for code, sourceid in enumerate(sourceid_legend, start=1):
-    print(f"{code}: {sourceid}")
+for key, value in ENCODING_LEGEND.items():
+    print(f"{value}: {key}")
 
-# Optional: Display the first few rows of the original and encoded columns for comparison
+print("\nBodyGroup Encoding Legend:")
+for key, value in BODYGROUP_ENCODING.items():
+    print(f"{value}: {key}")
+
+# Optional: Display original vs encoded comparison
 print("\nOriginal vs Encoded Comparison:")
 comparison_df = df[['BodyGroup_to', 'BodyGroup_to_encoded', 
                     'BodyGroup_from', 'BodyGroup_from_encoded', 

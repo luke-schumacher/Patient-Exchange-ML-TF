@@ -73,6 +73,6 @@ def pad_csv_files(data_dir, output_dir, target_length=36):
 
 
 # Usage
-data_directory = 'filtered_blocks_182625'  # Replace with your CSV directory path
-output_directory = 'filtered_blocks_padded'  # Replace with your desired output directory
+data_directory = 'filtered_blocks_175651'  # Replace with your CSV directory path
+output_directory = 'filtered_blocks_padded_175651'  # Replace with your desired output directory
 pad_csv_files(data_directory, output_directory)
